@@ -1,0 +1,8 @@
+571d557fa9d089cb351ab8c751aa869f  usr/lib/python2.7/dist-packages/pcap.so
+cb371360364012f5eaa6fb3b53d635b7  usr/share/doc/python-pypcap/README
+8651161d26c6a9df72f092245ae4afca  usr/share/doc/python-pypcap/changelog.Debian.gz
+6b95727c541a8fb9b0d1aa1af8e3ba81  usr/share/doc/python-pypcap/copyright
+1824ead2e52647f4d9e23ed8e6bf3efe  usr/share/doc/python-pypcap/examples/test.pcap
+752df6050f38e60c995092b7d37d1cfb  usr/share/doc/python-pypcap/examples/test.py
+3ae5504f710c0fce3e4c8be87ec66b82  usr/share/doc/python-pypcap/examples/testsniff.py
+427165d1aabb4589b9816696e0c34cf4  usr/share/pyshared/py_pypcap-1.1.2.egg-info

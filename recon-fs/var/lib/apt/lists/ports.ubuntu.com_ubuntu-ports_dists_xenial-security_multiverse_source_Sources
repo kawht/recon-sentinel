@@ -1,0 +1,53 @@
+Package: flashplugin-nonfree
+Format: 1.0
+Binary: flashplugin-installer, flashplugin-downloader
+Architecture: i386 amd64
+Version: 27.0.0.183ubuntu0.16.04.1
+Priority: optional
+Section: multiverse/web
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Bart Martens <bartm@knars.be>
+Standards-Version: 3.8.0
+Build-Depends: debhelper (>= 9)
+Homepage: http://www.adobe.com/products/flashplayer.html
+Directory: pool/multiverse/f/flashplugin-nonfree
+Package-List:
+ flashplugin-downloader deb contrib/web optional arch=i386
+ flashplugin-installer deb contrib/web optional arch=i386,amd64
+Files:
+ 947c2eb42403ddcdea023825381a6a4b 1432 flashplugin-nonfree_27.0.0.183ubuntu0.16.04.1.dsc
+ 803d8d2455ad2c96b5ac5d0915585031 47652 flashplugin-nonfree_27.0.0.183ubuntu0.16.04.1.tar.gz
+Checksums-Sha1:
+ e67281a0e0c58e8871809b94f61b29444dfe4950 1432 flashplugin-nonfree_27.0.0.183ubuntu0.16.04.1.dsc
+ d99e21ef69cb5a3407e8bd8548824a771474ad2a 47652 flashplugin-nonfree_27.0.0.183ubuntu0.16.04.1.tar.gz
+Checksums-Sha256:
+ 45148e5b2ca3433358267a97c042c8f441532d753faf4ccd4e7ff64909ea5acc 1432 flashplugin-nonfree_27.0.0.183ubuntu0.16.04.1.dsc
+ 7bc10be5a697182ab110649f7d31ed4db7157f88ebedaa3ad969cf75e3936676 47652 flashplugin-nonfree_27.0.0.183ubuntu0.16.04.1.tar.gz
+
+Package: linux-firmware-raspi2
+Format: 3.0 (quilt)
+Binary: linux-firmware-raspi2
+Architecture: armhf
+Version: 1.20161020-0ubuntu1~0.1
+Priority: optional
+Section: multiverse/misc
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Standards-Version: 3.9.7
+Build-Depends: debhelper (>= 9)
+Homepage: https://github.com/raspberrypi/firmware
+Directory: pool/multiverse/l/linux-firmware-raspi2
+Package-List:
+ linux-firmware-raspi2 deb multiverse/misc optional arch=armhf
+Files:
+ 97465ce0c492f3c68b21b0b9aed08920 1935 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.dsc
+ db97e5939ab0e851521e1fac704d6072 6827824 linux-firmware-raspi2_1.20161020.orig.tar.gz
+ d5fe1781bd381d8f850003f7fe877586 3440 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.debian.tar.xz
+Checksums-Sha1:
+ 5ed4ff2a2a6ec0b51004f7627e2db5ed7b4ddd94 1935 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.dsc
+ 7e9f894875cd66abca98fbab0207894658ca0d6e 6827824 linux-firmware-raspi2_1.20161020.orig.tar.gz
+ da677a9b3699146130105c9554db8b15d141ea8b 3440 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.debian.tar.xz
+Checksums-Sha256:
+ 847a5bf0646a9a05303d66ab04efc0b511d7d8c01660db7dee596ff18a9830bb 1935 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.dsc
+ 5c3387694563b82c8c3a5986b71241ddc98eb79cde2623b5019ebcf719e283c3 6827824 linux-firmware-raspi2_1.20161020.orig.tar.gz
+ 39cf91ba7aad37fe2bd6251a96c6fd813bac4af315089af8c376a298f2e20f01 3440 linux-firmware-raspi2_1.20161020-0ubuntu1~0.1.debian.tar.xz
+

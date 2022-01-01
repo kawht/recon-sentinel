@@ -1,0 +1,14 @@
+pcapy.so,sha256=3bAIeM3rxE88aNi6EEeAkfw7yrYa5SX3eKcMI3T6Z24,109112
+../../../share/doc/pcapy/LICENSE,sha256=Sy8KGMD1JtYbPb3z6Et84i-hiNxvJT-hevCXSQTX5lo,2658
+../../../share/doc/pcapy/README,sha256=KB1L3AQbOdEQKfm-GR38NnlKe4B9-OFFeYK9HpXOwKs,2708
+../../../share/doc/pcapy/pcapy.html,sha256=ZWLTQohb2vwrPUup7UfblFdPeSto9IaeAvtG8i3Mlp8,51116
+../../../tests/96pings.pcap,sha256=TAUKSm1hamgBu-CHDaIiWlBlc9hZVtOqhi-wYEsdX-Y,10776
+../../../tests/pcapytests.py,sha256=IxXVATdmB2g6ost21QdkDZGttzVIOOvqPBi5DEYg6ZE,3750
+pcapy-0.11.1.dist-info/DESCRIPTION.rst,sha256=OCTuuN6LcWulhHS3d5rfjdsQtW22n7HENFRh6jC6ego,10
+pcapy-0.11.1.dist-info/METADATA,sha256=NpNGXmLBi8o2885Z7kcHFPMX2osotbgWmb5Ta1Ce7z4,275
+pcapy-0.11.1.dist-info/RECORD,,
+pcapy-0.11.1.dist-info/WHEEL,sha256=jMcJ5NrWJR-BiGXmvkBWMKd9xRM8C-dEFzrCqmNK5Mc,106
+pcapy-0.11.1.dist-info/metadata.json,sha256=-9vN54p3Ju5oladi3hTE4ZoDynf-Qh3M2bVP6CEDKzw,456
+pcapy-0.11.1.dist-info/top_level.txt,sha256=uSbF_1hgLKJ8ajqADg1KAe_t7h6qs01tRXTugpsM_Vw,6
+pcapy-0.11.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+../../../tests/pcapytests.pyc,,

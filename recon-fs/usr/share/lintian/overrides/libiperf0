@@ -1,0 +1,4 @@
+# the Debian wiki warns about putting symbol files into
+# a package. I'm leaving it out until I have a better
+# undestanding of this
+libiperf0: no-symbols-control-file usr/lib/*/libiperf.so.0.0.0

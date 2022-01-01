@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=
+libdir=/lib/aarch64-linux-gnu
+includedir=${prefix}/include
+
+Name: devmapper-event
+Description: device-mapper event library
+Version: 1.02.110
+Cflags: -I${includedir}
+Libs: -L${libdir} -ldevmapper-event
+Requires.private: devmapper

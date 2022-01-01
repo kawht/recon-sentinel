@@ -1,0 +1,12 @@
+TARGETS = rmrsimg alsa-utils fake-hwclock resolvconf ntp avahi-daemon plymouth urandom sendsigs rsyslog umountnfs.sh hwclock.sh networking umountfs cryptdisks cryptdisks-early umountroot halt reboot
+sendsigs: alsa-utils plymouth avahi-daemon rmrsimg
+rsyslog: avahi-daemon sendsigs ntp rmrsimg
+umountnfs.sh: alsa-utils plymouth sendsigs avahi-daemon rsyslog rmrsimg
+hwclock.sh: rsyslog
+networking: umountnfs.sh
+umountfs: alsa-utils resolvconf plymouth avahi-daemon networking umountnfs.sh hwclock.sh urandom rmrsimg
+cryptdisks: umountfs
+cryptdisks-early: umountfs cryptdisks
+umountroot: fake-hwclock umountfs cryptdisks-early cryptdisks
+halt: umountroot
+reboot: umountroot

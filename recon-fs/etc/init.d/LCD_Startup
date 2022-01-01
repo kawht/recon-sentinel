@@ -1,0 +1,45 @@
+#! /bin/sh
+### BEGIN INIT INFO
+# Provides:          rc.local
+# Required-Start:    $all
+# Required-Stop:
+# Default-Start:     2 3 4 5
+# Default-Stop:
+# Short-Description: Run /etc/rc.local if it exist
+### END INIT INFO
+
+
+PATH=/sbin:/usr/sbin:/bin:/usr/bin
+
+. /lib/init/vars.sh
+. /lib/lsb/init-functions
+
+do_start() {
+        /usr/local/bin/backlight_on
+        sleep 1
+        /usr/bin/lcd_display "System Startup" "Please wait..."
+}
+do_stop() {
+        /usr/bin/lcd_display "System Shutdown" "Please wait..."
+        sleep 1
+        /usr/local/bin/backlight_off
+}
+
+case "$1" in
+    start)
+	do_start
+        ;;
+    restart|reload|force-reload)
+        echo "Error: argument '$1' not supported" >&2
+        exit 3
+        ;;
+    stop|status)
+        # No-op
+	do_stop
+        exit 0
+        ;;
+    *)
+        echo "Usage: $0 start|stop" >&2
+        exit 3
+        ;;
+esac

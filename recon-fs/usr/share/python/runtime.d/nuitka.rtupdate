@@ -1,0 +1,7 @@
+#! /bin/sh
+set -e
+
+if [ "$1" = rtupdate ]; then
+	pyclean -p nuitka /usr/share/nuitka
+	pycompile -p nuitka -V 2.6- /usr/share/nuitka
+fi

@@ -1,0 +1,4 @@
+deb http://deb.ayufan.eu/orgs/ayufan-rock64/releases /
+
+# uncomment to use pre-release kernels and compatibility packages
+# deb http://deb.ayufan.eu/orgs/ayufan-rock64/pre-releases /

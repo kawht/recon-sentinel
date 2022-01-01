@@ -1,0 +1,12 @@
+TARGETS = rsyslog killprocs dbus single ntp sysstat cron ssh avahi-daemon plymouth ondemand rc.local
+INTERACTIVE =
+dbus: rsyslog
+single: killprocs
+ntp: rsyslog
+sysstat: rsyslog
+cron: rsyslog
+ssh: rsyslog
+avahi-daemon: dbus rsyslog
+plymouth: avahi-daemon dbus rsyslog ntp sysstat cron ssh
+ondemand: avahi-daemon dbus rsyslog ntp sysstat cron ssh
+rc.local: avahi-daemon dbus rsyslog ntp sysstat cron ssh

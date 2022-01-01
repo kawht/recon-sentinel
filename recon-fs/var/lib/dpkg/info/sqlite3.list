@@ -1,0 +1,13 @@
+/.
+/usr
+/usr/share
+/usr/share/man
+/usr/share/man/man1
+/usr/share/man/man1/sqlite3.1.gz
+/usr/share/doc
+/usr/share/doc/sqlite3
+/usr/share/doc/sqlite3/copyright
+/usr/bin
+/usr/bin/sqldiff
+/usr/bin/sqlite3
+/usr/share/doc/sqlite3/changelog.Debian.gz

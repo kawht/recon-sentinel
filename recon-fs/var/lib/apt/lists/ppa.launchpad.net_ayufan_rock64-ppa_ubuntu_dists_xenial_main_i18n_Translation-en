@@ -1,0 +1,433 @@
+Package: xserver-common
+Description-md5: be03943b6955ee9fae7163ad516c772f
+Description-en: common files used by various X servers
+ This package provides files necessary for all X.Org based X servers.
+
+Package: xorg-server-source
+Description-md5: 6be9dae6db2bfd4321ce1a5c689cbeb4
+Description-en: Xorg X server - source files
+ This package provides original Debian (with Debian patches already
+ applied, and autotools files updated) sources for the X.Org ('Xorg')
+ X server shipped in a tarball.  This enables other projects re-using
+ X server codebase (e.g. VNC servers) to (re-)use officially
+ Debian-supported version of the X xserver for their builds.
+ .
+ Unless you are building a software product using X server sources,
+ you probably want xserver-xorg and/or xserver-xorg-core instead.
+
+Package: xdmx
+Description-md5: d52dd645b5fa9daf3052065e2345991f
+Description-en: distributed multihead X server
+ Xdmx is a proxy X server that uses one or more other X servers as its
+ display device(s). It provides multi-head X functionality for displays that
+ might be located on different machines. Xdmx functions as a front-end X server
+ that acts as a proxy to a set of back-end X servers. All of the visible
+ rendering is passed to the back-end X servers. Clients connect to the Xdmx
+ front-end, and everything appears as it would in a regular multi-head
+ configuration. If Xinerama is enabled (e.g., with +xinerama on the command
+ line), the clients see a single large screen.
+ .
+ More information about X.Org can be found at:
+ <URL:http://www.X.org>
+ .
+ This package is built from the X.org xserver module.
+
+Package: xnest
+Description-md5: 48a07c59b44bacd1e2bed508f80542b4
+Description-en: Nested X server
+ Xnest is a nested X server that simply relays all its requests to another
+ X server, where it runs as a client.  This means that it appears as another
+ window in your current X session.  Xnest relies upon its parent X server
+ for font services.
+ .
+ Use of the Xephyr X server instead of Xnest is recommended.
+ .
+ More information about X.Org can be found at:
+ <URL:http://www.X.org>
+ .
+ This package is built from the X.org xserver module.
+
+Package: xvfb
+Description-md5: ff95e4399e5ec034de6998347673eb73
+Description-en: Virtual Framebuffer 'fake' X server
+ Xvfb provides an X server that can run on machines with no display hardware
+ and no physical input devices. It emulates a dumb framebuffer using virtual
+ memory. The primary use of this server was intended to be server testing,
+ but other novel uses for it have been found, including testing clients
+ against unusual depths and screen configurations, doing batch processing with
+ Xvfb as a background rendering engine, load testing, as an aid to porting the
+ X server to a new platform, and providing an unobtrusive way to run
+ applications that don't really need an X server but insist on having one
+ anyway.
+ .
+ This package also contains a convenience script called xvfb-run which
+ simplifies the automated execution of X clients in a virtual server
+ environment. This convenience script requires the use of the xauth
+ program.
+ .
+ More information about X.Org can be found at:
+ <URL:http://www.X.org>
+ .
+ This package is built from the X.org xserver module.
+
+Package: libdrm-dev
+Description-md5: 26367cfc3b23b21ad8b59e1f0974ff45
+Description-en: Userspace interface to kernel DRM services -- development files
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the development environment for libdrm.
+
+Package: xserver-xephyr
+Description-md5: 516dc4b8b7e15f13bc99547d4869e159
+Description-en: nested X server
+ Xephyr is an X server that can be run inside another X server,
+ much like Xnest. It is based on the kdrive X server, and as a
+ result it supports newer extensions than Xnest, including render and
+ composite.
+ .
+ More information about X.Org can be found at:
+ <URL:http://www.X.org>
+ .
+ This package is built from the X.org xserver module.
+
+Package: xserver-xorg-core
+Description-md5: e3826a765918b79dee4b90ec97f9302c
+Description-en: Xorg X server - core server
+ The Xorg X server is an X server for several architectures and operating
+ systems, which is derived from the XFree86 4.x series of X servers.
+ .
+ The Xorg server supports most modern graphics hardware from most vendors,
+ and supersedes all XFree86 X servers.
+ .
+ More information about X.Org can be found at:
+ <URL:http://www.X.org>
+ .
+ This package is built from the X.org xserver module.
+
+Package: libdrm2
+Description-md5: aefc4200d84a6f2aee6f342bdd88dc24
+Description-en: Userspace interface to kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the runtime environment for libdrm.
+
+Package: xdmx-tools
+Description-md5: d19e4657677c5d6dc4d36c168f58a7f4
+Description-en: Distributed Multihead X tools
+ This package provides a collection of tools used for administration of
+ the Xdmx server; see the xdmx package for more information.
+ .
+ More information about X.Org can be found at:
+ <URL:http://www.X.org>
+ .
+ This package is built from the X.org xserver module.
+
+Package: xserver-xorg-dev
+Description-md5: 241552d78aca8911808aea0707649843
+Description-en: Xorg X server - development files
+ This package provides development files for the X.Org ('Xorg') X server.
+ This is not quite the same as the DDK (Driver Development Kit) from the
+ XFree86 4.x and X.Org 6.7, 6.8 and 6.9 series of servers; it provides
+ headers and a pkg-config file for drivers using autotools to build
+ against.
+ .
+ Unless you are developing or building a driver, you probably want
+ xserver-xorg and/or xserver-xorg-core instead.
+ .
+ More information about X.Org can be found at:
+ <URL:http://www.X.org>
+ .
+ This package is built from the X.org xserver module.
+
+Package: libdrm2-dbg
+Description-md5: 4ca6944e55bdf07eb73a9e7bebdd7276
+Description-en: Userspace interface to kernel DRM services -- debugging symbols
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides debugging symbols for the libdrm2 package.
+
+Package: xserver-xorg-core-dbg
+Description-md5: 748963cc445faabee033c53886a8a0cf
+Description-en: Xorg - the X.Org X server (debugging symbols)
+ The Xorg X server is an X server for several architectures and operating
+ systems, which is derived from the XFree86 4.x series of X servers.
+ .
+ The Xorg server supports most modern graphics hardware from most vendors,
+ and supersedes all XFree86 X servers.
+ .
+ This package provides debugging symbols for the Xorg X server and associated
+ modules.
+
+Package: flash-kernel
+Description-md5: 20e5ff2238f4ed9bfdf4651b31ecd6f9
+Description-en: utility to make certain embedded devices bootable
+ flash-kernel is a script which will put the kernel and initramfs in
+ the boot location of embedded devices that don't load the kernel and
+ initramfs directly from /boot.  flash-kernel supports devices that
+ boot from flash memory (hence the name) as well as some devices that
+ require a special boot image on the disk.
+
+Package: flash-kernel-installer
+Description-md5: 38e715d3bc39d4e59cedbd0e7d30cce7
+Description-en: Make the system bootable
+
+Package: libdrm-radeon1
+Description-md5: 48a20567596b5b215c7a5479d3f5af5b
+Description-en: Userspace interface to radeon-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+
+Package: libdrm-radeon1-dbg
+Description-md5: d8dce081da2ea2da95980f5997a0cbb6
+Description-en: Userspace interface to radeon-specific kernel DRM services -- debugging symbols
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the debugging symbols for the libdrm-radeon1 package.
+
+Package: libdrm-nouveau2
+Description-md5: a8a5d523c49607cd4a96eb6032dcb202
+Description-en: Userspace interface to nouveau-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+
+Package: libdrm-nouveau2-dbg
+Description-md5: 1121a0708f630e678733a766a20d863f
+Description-en: Userspace interface to nouveau-specific kernel DRM -- debugging symbols
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the debugging symbols for the libdrm-nouveau2 package.
+
+Package: libdrm2-udeb
+Description-md5: 33ce4c8ebd452de8dc2817c739c14177
+Description-en: Userspace interface to kernel DRM services -- runtime
+ This is a udeb, or a microdeb, for the debian-installer.
+
+Package: libdrm-freedreno1
+Description-md5: e7aa894a83938fd7b758950fb23bec72
+Description-en: Userspace interface to msm/kgsl kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+
+Package: libdrm-freedreno1-dbg
+Description-md5: 5badf6a9f6b63f45f8cac513f5f697ed
+Description-en: Userspace interface to msm/kgsl kernel DRM services -- debugging symbols
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the debugging symbols for the libdrm-freedreno1 package.
+
+Package: xwayland
+Description-md5: 51bce0b4032e401f533c80a4cb12a569
+Description-en: Xwayland X server
+ This package provides an X server running on top of wayland, using wayland
+ input devices for input and forwarding either the root window or individual
+ top-level windows as wayland surfaces.
+
+Package: libdrm-tegra0
+Description-md5: ff51e7e16d573dc25d73700f5163a4dc
+Description-en: Userspace interface to tegra-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+
+Package: libdrm-tegra0-dbg
+Description-md5: 6070e3e229200ea13796b78e85a443e4
+Description-en: Userspace interface to tegra-specific kernel DRM services -- debugging symbols
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the debugging symbols for the libdrm-tegra0 package.
+
+Package: libdrm-amdgpu1-dbg
+Description-md5: 6c519b52f4efa3347a180f67f2699c4b
+Description-en: Userspace interface to amdgpu-specific kernel DRM services -- debugging symbols
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the debugging symbols for the libdrm-amdgpu1 package.
+
+Package: libdrm-amdgpu1
+Description-md5: 61a9b44d2a8366ec01d27d9e105f5ecb
+Description-en: Userspace interface to amdgpu-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+
+Package: libdrm-rockchip1-dbg
+Description-md5: 4de1b8b124a9060bea5920db98351dbf
+Description-en: Userspace interface to exynos-specific kernel DRM services -- debugging symbols
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the debugging symbols for the libdrm-rockchip1 package.
+
+Package: libdrm-rockchip1
+Description-md5: e7aa894a83938fd7b758950fb23bec72
+Description-en: Userspace interface to msm/kgsl kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+
+Package: libmali-rk-dev
+Description-md5: ca071c88673a9fe8403d6e86c842a9d9
+Description-en: The mali library for Rockchip RK3288.
+ .
+ This package provides the development environment for compiling programs
+ against the GBM library.
+
+Package: libmali-rk-midgard-4th-r9p0
+Description-md5: 00df9e773a89a37239c0c80a10f1e1cf
+Description-en: The mali library for Rockchip RK3399.
+
+Package: librockchip-mpp-dev
+Description-md5: 4abfb58787b683c6dfb0b210d4d6b68e
+Description-en: Media Process Platform
+
+Package: librockchip-mpp-static
+Description-md5: 4abfb58787b683c6dfb0b210d4d6b68e
+Description-en: Media Process Platform
+
+Package: librockchip-mpp1
+Description-md5: 4abfb58787b683c6dfb0b210d4d6b68e
+Description-en: Media Process Platform
+
+Package: librockchip-vpu0
+Description-md5: 4abfb58787b683c6dfb0b210d4d6b68e
+Description-en: Media Process Platform
+
+Package: gstreamer1.0-rockchip1
+Description-md5: 08874bc9094431d3cec96f459f619087
+Description-en: The Gstreamer plugins for Rockchip RK3xxx platform.
+
+Package: libmali-rk-midgard-4th-r13p0
+Description-md5: 4e6521d6c78b541bc5a767cf7fa55ef3
+Description-en: The mali library for Rockchip RK3399 (32bit).
+
+Package: libmali-rk-utgard-2th-r7p0
+Description-md5: f4b54f71869ac2afdee05798fd20f57d
+Description-en: The mali library for Rockchip RK3328 (32bit).
+
+Package: xserver-xorg-core-udeb
+Description-md5: c491999d85b391aa4e34b4022cd21ae1
+Description-en: Xorg X server - core server
+ This is a udeb, or a microdeb, for the debian-installer.
+
+Package: libdrm-omap1
+Description-md5: a772caa1986e36314d42d3b8f696303c
+Description-en: Userspace interface to omap-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+
+Package: libdrm-omap1-dbg
+Description-md5: ed6992098f95a00a62fa23478f033d10
+Description-en: Userspace interface to omap-specific kernel DRM services -- debugging symbols
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the debugging symbols for the libdrm-omap1 package.
+
+Package: libdrm-exynos1
+Description-md5: 70b9aeb8a846b64f93e3a0fa37126919
+Description-en: Userspace interface to exynos-specific kernel DRM services -- runtime
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+
+Package: libdrm-exynos1-dbg
+Description-md5: 23b53e3b4a269375e7dcbb4e0cb1c15a
+Description-en: Userspace interface to exynos-specific kernel DRM services -- debugging symbols
+ This library implements the userspace interface to the kernel DRM
+ services.  DRM stands for "Direct Rendering Manager", which is the
+ kernelspace portion of the "Direct Rendering Infrastructure" (DRI).
+ The DRI is currently used on Linux to provide hardware-accelerated
+ OpenGL drivers.
+ .
+ This package provides the debugging symbols for the libdrm-exynos1 package.
+
+Package: lib32mali-rk-midgard-4th-r13p0
+Description-md5: 4e6521d6c78b541bc5a767cf7fa55ef3
+Description-en: The mali library for Rockchip RK3399 (32bit).
+
+Package: lib32mali-rk-midgard-4th-r9p0
+Description-md5: 4e6521d6c78b541bc5a767cf7fa55ef3
+Description-en: The mali library for Rockchip RK3399 (32bit).
+
+Package: lib32mali-rk-utgard-2th-r7p0
+Description-md5: f4b54f71869ac2afdee05798fd20f57d
+Description-en: The mali library for Rockchip RK3328 (32bit).
+
+Package: libmali-rk-midgard-r12p0-r0p0
+Description-md5: cbca9077cc3a11e2f4e4d5bf00e7c206
+Description-en: The mali library for Rockchip RK3288(not included RK3288W).
+
+Package: libmali-rk-midgard-r13p0-r0p0
+Description-md5: cbca9077cc3a11e2f4e4d5bf00e7c206
+Description-en: The mali library for Rockchip RK3288(not included RK3288W).
+
+Package: libmali-rk-midgard-r9p0-r0p0
+Description-md5: cbca9077cc3a11e2f4e4d5bf00e7c206
+Description-en: The mali library for Rockchip RK3288(not included RK3288W).
+
+Package: libmali-rk-midgard-r9p0-r1p0
+Description-md5: 69b0e9ab59915e608845bb8fc9ce4f5b
+Description-en: The mali library for Rockchip RK3288W.
+
+Package: libmali-rk-utgard0-r6p0
+Description-md5: 56ca16398a3c9e8637eebd9eb91af5c7
+Description-en: The mali library for Rockchip RK29 serial.
+

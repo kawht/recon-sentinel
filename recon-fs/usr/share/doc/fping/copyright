@@ -1,0 +1,43 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: fping 3
+Upstream-Contact: David Schweikert <david@schweikert.ch>
+Source: http://www.fping.org/
+
+Files: *
+Copyright: 1992, 1994, 1997 Board of Trustees, Leland Stanford Jr. University
+Comment:
+ Original author is Roland Schemers <schemers@stanford.edu>.
+ First substantial rewrite by Roland Schemers <schemers@stanford.edu>.
+ IPv6 Support: Jeroen Massar <jeroen@unfix.org / jeroen@ipng.nl>
+ Improved main loop: David Schweikert <david@schweikert.ch>
+License: BSD-3-Clause-Standford-Variant
+
+Files: debian/*
+Copyright: 1994      Peter Tobias <tobias@et-inf.fho-emden.de> (netstd package)
+           1999-2003 Herbert Xu <herbert@debian.org>
+           2004-2008 Anibal Monsalve Salazar <anibal@debian.org>
+           2010-2015 Axel Beckert <abe@debian.org>
+Comment:
+ This package was split from netstd by Herbert Xu <herbert@debian.org>
+ on Sat, 30 Oct 1999 16:39:06 +1000.  netstd was created by Peter
+ Tobias <tobias@et-inf.fho-emden.de> on Wed, 20 Jul 1994 17:23:21 +0200.
+ .
+ It is assumed that the packaging is under the same license as the
+ upstream code unless mentioned otherwise.
+License: BSD-3-Clause-Standford-Variant
+
+License: BSD-3-Clause-Standford-Variant
+ Redistribution and use in source and binary forms are permitted
+ provided that the above copyright notice and this paragraph are
+ duplicated in all such forms and that any documentation, advertising
+ materials, and other materials related to such distribution and use
+ acknowledge that the software was developed by Stanford University.
+ The name of the University may not be used to endorse or promote
+ products derived from this software without specific prior written
+ permission.
+ .
+ THIS SOFTWARE IS PROVIDED ``AS IS'' AND WITHOUT ANY EXPRESS OR
+ IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE IMPLIED
+ WARRANTIES OF MERCHANTIBILITY AND FITNESS FOR A PARTICULAR PURPOSE.
+Comment: License short name based on
+ https://fedoraproject.org/wiki/Licensing:BSD#BSD_Three_Clause_Variant

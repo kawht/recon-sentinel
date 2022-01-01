@@ -1,0 +1,31 @@
+state.HDMI {
+	control.1 {
+		iface PCM
+		name ELD
+		value '0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000'
+		comment {
+			access 'read volatile'
+			type BYTES
+			count 128
+		}
+	}
+	control.2 {
+		iface PCM
+		name 'AUDIO MODE'
+		value 0
+		comment {
+			access 'read write volatile'
+			type INTEGER
+			count 1
+			range '0 - 2'
+		}
+	}
+}
+state.I2S {
+	control {
+	}
+}
+state.SPDIF {
+	control {
+	}
+}

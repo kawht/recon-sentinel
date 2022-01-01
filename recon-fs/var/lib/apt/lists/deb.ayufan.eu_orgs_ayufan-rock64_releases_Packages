@@ -1,0 +1,2046 @@
+Package: linux-firmware-image-4.13.0-rc1-rockchip-ayufan-102-g6104f84
+Source: linux-4.13.0-rc1-rockchip-ayufan-102-g6104f84
+Version: 0.5.8
+Architecture: arm64
+Maintainer: Anonymous <root@2c37f7039ae3>
+Installed-Size: 350
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.13.0-rc1-rockchip-ayufan-102-g6104f84
+ This package contains firmware from the Linux kernel, version 4.13.0-rc1-rockchip-ayufan-102-g6104f84.
+MD5sum: 0ffc96ac97f61372904a7df01645198d
+SHA1: bded6976ce9a5f1c2c88fa919c178bed16f17de8
+SHA256: b9d1540ccfe07d7e72be21cae52c169607e7662a2fdfa722b10bf18694a664c1
+SHA512: a15c9bd23c94b86452186f5dc01da995e6cee2a54b7afc62b2686029a8c2341030a3f7fa29afbafb5568e4db5b05237b2b98dfef24583325cdfe545051e5561b
+Filename: download/linux-build/0.5.8/linux-firmware-image-4.13.0-rc1-rockchip-ayufan-102-g6104f84_0.5.8_arm64.deb
+Size: 125152
+
+Package: linux-firmware-image-4.13.0-rc1-rockchip-ayufan-104-g6104f84
+Source: linux-4.13.0-rc1-rockchip-ayufan-104-g6104f84
+Version: 0.5.9
+Architecture: arm64
+Maintainer: Anonymous <root@494431924f07>
+Installed-Size: 350
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.13.0-rc1-rockchip-ayufan-104-g6104f84
+ This package contains firmware from the Linux kernel, version 4.13.0-rc1-rockchip-ayufan-104-g6104f84.
+MD5sum: 2dc925d29f8d68f2e4e2ebaaae5a3914
+SHA1: c15eeaec7354e01f25128e0083c25d723feef095
+SHA256: 49037a525ff773b48481e7ca31b812d56728cd9f16295087a384c6fa9e17369e
+SHA512: b8a5a96fbdb48aae0d50e794f4ba3922ca404de80e0b9de42062aa5020d8f06fd1eaea148629e5003d84211d7f301df9322bc614bc68dcd650d9132597ccb5c6
+Filename: download/linux-build/0.5.9/linux-firmware-image-4.13.0-rc1-rockchip-ayufan-104-g6104f84_0.5.9_arm64.deb
+Size: 125648
+
+Package: linux-firmware-image-4.13.0-rockchip-ayufan-118-gd3263fd
+Source: linux-4.13.0-rockchip-ayufan-118-gd3263fd
+Version: 0.5.10
+Architecture: arm64
+Maintainer: Anonymous <root@e4248ef129ba>
+Installed-Size: 350
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.13.0-rockchip-ayufan-118-gd3263fd
+ This package contains firmware from the Linux kernel, version 4.13.0-rockchip-ayufan-118-gd3263fd.
+MD5sum: 1f2fd36691970d81260869866395d537
+SHA1: b3f335be32e707d2d7a64f6cdbfe4ce0b83aabd5
+SHA256: 6224848efe9dc8afa7daa6b31ac57185a88cfc61cdde3459f331563a2890266d
+SHA512: 0306294a35618ad58d28bd47d96e1d3085cea0fb55357680e46bf1ccd837bf34d48f9eca7424dd59a47b4c4d327022af9071278733e815e150dd82d6508e02f9
+Filename: download/linux-build/0.5.10/linux-firmware-image-4.13.0-rockchip-ayufan-118-gd3263fd_0.5.10_arm64.deb
+Size: 125802
+
+Package: linux-firmware-image-4.4.70-rockchip-ayufan-54
+Source: linux-4.4.70-rockchip-ayufan-54
+Version: 0.3.2
+Architecture: arm64
+Maintainer: Anonymous <root@eb0a4070ce44>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.70-rockchip-ayufan-54
+ This package contains firmware from the Linux kernel, version 4.4.70-rockchip-ayufan-54.
+MD5sum: ebb858dc8842a3c00b3488fdc99e35d4
+SHA1: ccc50524a05da655ed17f987c0a9bfbbaa8ed9f1
+SHA256: 35d89a2c2d74a14be0b8eec838eb26b5759fe317cb78220b7bafd90a70279c22
+SHA512: c744503331c388bc57d3bfbd62d70630f397f4d518f23cb41252c24a49ba57498410a0bf9d5180260f32fb22b5bf57ad7331e79926799342fe9981e7b00eea8d
+Filename: download/linux-build/0.3.2/linux-firmware-image-4.4.70-rockchip-ayufan-54_0.3.2_arm64.deb
+Size: 181564
+
+Package: linux-firmware-image-4.4.70-rockchip-ayufan-55
+Source: linux-4.4.70-rockchip-ayufan-55
+Version: 0.3.3
+Architecture: arm64
+Maintainer: Anonymous <root@6dccca718e3e>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.70-rockchip-ayufan-55
+ This package contains firmware from the Linux kernel, version 4.4.70-rockchip-ayufan-55.
+MD5sum: 3e7cd6c14496b8be925306cea2dbfafc
+SHA1: 59280efeeb8f4697ef7fa52ccd70d9663d9dca87
+SHA256: 6b673943df2f32c22107da3ab0cb41e901468b5e7076f9b5c7867e32e4b09413
+SHA512: c9560955cfd8bf7f5db2525e42b08f0f9692595c2976ff8adee0523eb4b74af991041b0a4115613f23c4afb5f5cf57a11fa21cd123afad219c6c15accb3e3e69
+Filename: download/linux-build/0.3.3/linux-firmware-image-4.4.70-rockchip-ayufan-55_0.3.3_arm64.deb
+Size: 182426
+
+Package: linux-firmware-image-4.4.70-rockchip-ayufan-57
+Source: linux-4.4.70-rockchip-ayufan-57
+Version: 0.3.4
+Architecture: arm64
+Maintainer: Anonymous <root@fc86bce98cec>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.70-rockchip-ayufan-57
+ This package contains firmware from the Linux kernel, version 4.4.70-rockchip-ayufan-57.
+MD5sum: 4e59d24ccb91c6ff8a096bf3f4911e55
+SHA1: 94ef73a067c43d592644f774158a3d9b0b67f35e
+SHA256: 2679cc47248e3aaa745ac35381258ef39cce72c7a904ac68ab29e2aa2ce72e02
+SHA512: 72d8a9926d0a316079b89dfe5618712d43fe241bed5dceb618df50b485e2f05485a6801bf6d6d4f2b23e030988b7b3bd6646f2702b2416d783954683464d2773
+Filename: download/linux-build/0.3.4/linux-firmware-image-4.4.70-rockchip-ayufan-57_0.3.4_arm64.deb
+Size: 181484
+
+Package: linux-firmware-image-4.4.70-rockchip-ayufan-62
+Source: linux-4.4.70-rockchip-ayufan-62
+Version: 0.3.7
+Architecture: arm64
+Maintainer: Anonymous <root@645a5c5f7ae4>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.70-rockchip-ayufan-62
+ This package contains firmware from the Linux kernel, version 4.4.70-rockchip-ayufan-62.
+MD5sum: fc4dc5d1332b063285589b72c620457b
+SHA1: 83a5b09ea2409c52c539d739d30a9ea8fb464300
+SHA256: 47f73e1942ac8692a26ff05310d6d9b0b069452d18addb7a575a0b23b83770b6
+SHA512: 0d0d0d67be382f817bc25afa01b7c176f1ecb4b17da2185a291eb3bd1892575ad60c52c48337a62f1b1ab8a73cd39124f253c96d1a39a723ad3d52ee91e4b4b9
+Filename: download/linux-build/0.3.7/linux-firmware-image-4.4.70-rockchip-ayufan-62_0.3.7_arm64.deb
+Size: 182146
+
+Package: linux-firmware-image-4.4.70-rockchip-ayufan-66
+Source: linux-4.4.70-rockchip-ayufan-66
+Version: 0.4.3
+Architecture: arm64
+Maintainer: Anonymous <root@d75ef99673cb>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.70-rockchip-ayufan-66
+ This package contains firmware from the Linux kernel, version 4.4.70-rockchip-ayufan-66.
+MD5sum: 337ce80b5a5e2535a8abe47da32939c0
+SHA1: b5f143029b4d13054ef209a6c94b8dad2abd2936
+SHA256: f3fbc109bb07604e9cc93b211975f8d60cb77db00962dd4acb075d9f03a7a767
+SHA512: 6a3dc4b68a345b71c236d8b095b07428f202f0082486457c7a6928b83918b6cf9fd72ebbdbccdeea34db1766f01f4aa50b4260909855df5220516637f1c955ff
+Filename: download/linux-build/0.4.3/linux-firmware-image-4.4.70-rockchip-ayufan-66_0.4.3_arm64.deb
+Size: 181948
+
+Package: linux-firmware-image-4.4.70-rockchip-ayufan-83
+Source: linux-4.4.70-rockchip-ayufan-83
+Version: 0.4.16
+Architecture: arm64
+Maintainer: Anonymous <root@696207e32f2d>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.70-rockchip-ayufan-83
+ This package contains firmware from the Linux kernel, version 4.4.70-rockchip-ayufan-83.
+MD5sum: c312a85b531e77a7a6b99df980b37e0b
+SHA1: d698ac1a461a65b251147221f1bd88941145f383
+SHA256: d16fb8afb94891a2e63dbef8ae91ebb45af7d1318af32f7af76bc1181ab1a54e
+SHA512: 0dfe25d21cb335353c2da569122503462ca4206bdbb23601ebb80b8906ec8fa76bebc888e9ff54048bebe14352140fd6670d1289f9ef4169ad6054e12fe8348f
+Filename: download/linux-build/0.4.16/linux-firmware-image-4.4.70-rockchip-ayufan-83_0.4.16_arm64.deb
+Size: 183714
+
+Package: linux-firmware-image-4.4.70-rockchip-ayufan-85
+Source: linux-4.4.70-rockchip-ayufan-85
+Version: 0.4.17
+Architecture: arm64
+Maintainer: Anonymous <root@c6610ffc78ec>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.70-rockchip-ayufan-85
+ This package contains firmware from the Linux kernel, version 4.4.70-rockchip-ayufan-85.
+MD5sum: 6a1e07534cddd2360b9bda9c4ee178ef
+SHA1: bd46f368aace2799daf61d66b0526d08f3372aaa
+SHA256: 17fa8a4cfd675ec615e9b645ed4608bba0df85a80ad9694a1952400c53f62489
+SHA512: c64da58cb689b5c9a5bed22730fecb840e74e308f6dcdf5da2d3b2180233a7e6e3de1ecae7248ba73e6bc363757a2df59cd5ec56f815125b30bb0dbf8a099d0a
+Filename: download/linux-build/0.4.17/linux-firmware-image-4.4.70-rockchip-ayufan-85_0.4.17_arm64.deb
+Size: 182280
+
+Package: linux-firmware-image-4.4.71-rockchip-ayufan-77
+Source: linux-4.4.71-rockchip-ayufan-77
+Version: 0.4.12
+Architecture: arm64
+Maintainer: Anonymous <root@af7866c094b8>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.71-rockchip-ayufan-77
+ This package contains firmware from the Linux kernel, version 4.4.71-rockchip-ayufan-77.
+MD5sum: a48a09581b86c18d6dbd3a894efe9957
+SHA1: ad866743c9d17787d3893cf976b890795fa9ad24
+SHA256: f32ae871b43f061c46cf262571e321632f43347a0c48d915a915dfa29c2574c4
+SHA512: e4dbfcfb1f0ebd397446cf58ac7442731fd88cd0d2d3b27d19866235351df7f2bb90616eb23c3431def5a483c28eb5a70f15bf6685ea58b425ad9e38d079f476
+Filename: download/linux-build/0.4.12/linux-firmware-image-4.4.71-rockchip-ayufan-77_0.4.12_arm64.deb
+Size: 182304
+
+Package: linux-firmware-image-4.4.77-rockchip-ayufan-102
+Source: linux-4.4.77-rockchip-ayufan-102
+Version: 0.5.8
+Architecture: arm64
+Maintainer: Anonymous <root@2c37f7039ae3>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.77-rockchip-ayufan-102
+ This package contains firmware from the Linux kernel, version 4.4.77-rockchip-ayufan-102.
+MD5sum: 1ae263a71187ad384cf0eb47381ff81c
+SHA1: 040ea0e5f5b8bf198204e86983506c8ea3aab197
+SHA256: 16ee77b6c1afaa84a64f06690220a95fcf4ddc6cd9626d2bf21fd16af98bc4ca
+SHA512: aacd1c2a905cec4a7126c17be16820b175a170f44b5e037d7e0ef81d0ec5e58c4f42ddd35ac46b0225869d074a75e889411f803833928b9272f7fe6cdd8d8f8f
+Filename: download/linux-build/0.5.8/linux-firmware-image-4.4.77-rockchip-ayufan-102_0.5.8_arm64.deb
+Size: 181724
+
+Package: linux-firmware-image-4.4.77-rockchip-ayufan-104
+Source: linux-4.4.77-rockchip-ayufan-104
+Version: 0.5.9
+Architecture: arm64
+Maintainer: Anonymous <root@494431924f07>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.77-rockchip-ayufan-104
+ This package contains firmware from the Linux kernel, version 4.4.77-rockchip-ayufan-104.
+MD5sum: ed8350d695af1cd48645b1ec5e41b0c1
+SHA1: b805593da966a333ec6d7cfe53ba3e1b43bdf8ee
+SHA256: 4b6a6eb22e2310a7207aef3b69695dcd0ebeec1aff7858ca7a53dd7d49155518
+SHA512: 83328caa4b1a935d074e81d052f618639d364dab5991f57f14824a7850091cb4b168e6f831662e20d322171d570592dca60c939d01f6f55c9314ef1c31ce3296
+Filename: download/linux-build/0.5.9/linux-firmware-image-4.4.77-rockchip-ayufan-104_0.5.9_arm64.deb
+Size: 182280
+
+Package: linux-firmware-image-4.4.77-rockchip-ayufan-118
+Source: linux-4.4.77-rockchip-ayufan-118
+Version: 0.5.10
+Architecture: arm64
+Maintainer: Anonymous <root@e4248ef129ba>
+Installed-Size: 545
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel firmware, version 4.4.77-rockchip-ayufan-118
+ This package contains firmware from the Linux kernel, version 4.4.77-rockchip-ayufan-118.
+MD5sum: d1313a9f41c568637e6e38612e89cc5a
+SHA1: d5b9ccdaf28b4ccf234a91922ce004d24c67fb18
+SHA256: 70797af8e3df4ac5e4aeabb4f3697050ac46c886b173a8c1bca4c43523a91e2c
+SHA512: 67a965ab9d127943e53218a194672dd5dc76c56216738de83412cc5c22610e793844f70724784783ad5262af1eead9658c98fb84bf675596b6e7f393002c98ed
+Filename: download/linux-build/0.5.10/linux-firmware-image-4.4.77-rockchip-ayufan-118_0.5.10_arm64.deb
+Size: 181786
+
+Package: linux-headers-4.13.0-rc1-rockchip-ayufan-102-g6104f84
+Source: linux-4.13.0-rc1-rockchip-ayufan-102-g6104f84
+Version: 0.5.8
+Architecture: arm64
+Maintainer: Anonymous <root@2c37f7039ae3>
+Installed-Size: 72960
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.13.0-rc1-rockchip-ayufan-102-g6104f84 on arm64
+ This package provides kernel header files for 4.13.0-rc1-rockchip-ayufan-102-g6104f84 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 7bbd6f5a5c2e3e74c92193a675986f71
+SHA1: 7d252c232063e938fef63f84bda9d7c2b8555727
+SHA256: 3a2cd2275b29a2979b935bb50f0f5dd912610bb60ee7a6831199ef09cf63c067
+SHA512: 42c7369a1f9fd6ffc7ef37aa5846e048a03bd41b8feb21a365e57fe595a6809e8386a64810d32b0ce111deb43f3cc78f17a04866bdc8c55a8c1e07af01fc6b8f
+Filename: download/linux-build/0.5.8/linux-headers-4.13.0-rc1-rockchip-ayufan-102-g6104f84_0.5.8_arm64.deb
+Size: 10602898
+
+Package: linux-headers-4.13.0-rc1-rockchip-ayufan-104-g6104f84
+Source: linux-4.13.0-rc1-rockchip-ayufan-104-g6104f84
+Version: 0.5.9
+Architecture: arm64
+Maintainer: Anonymous <root@494431924f07>
+Installed-Size: 72960
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.13.0-rc1-rockchip-ayufan-104-g6104f84 on arm64
+ This package provides kernel header files for 4.13.0-rc1-rockchip-ayufan-104-g6104f84 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: ada58aa0daf5b27ce0a2205297613733
+SHA1: 6fea24bd3190de2802128ac7f2785e919a182ab1
+SHA256: ea4025fc0db45d7294eaf985b1ebb8e8b2d755404bef44f2496386933ac7795e
+SHA512: 3550b11dae3b5ab5397765c2137717f71e1f484ed2088c4544b6cea060d2a9e4d24eab54f534ee8ce1d1e0b3647c753550f07c8431329fe654e1c26810c77c3a
+Filename: download/linux-build/0.5.9/linux-headers-4.13.0-rc1-rockchip-ayufan-104-g6104f84_0.5.9_arm64.deb
+Size: 10604134
+
+Package: linux-headers-4.13.0-rockchip-ayufan-118-gd3263fd
+Source: linux-4.13.0-rockchip-ayufan-118-gd3263fd
+Version: 0.5.10
+Architecture: arm64
+Maintainer: Anonymous <root@e4248ef129ba>
+Installed-Size: 73217
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.13.0-rockchip-ayufan-118-gd3263fd on arm64
+ This package provides kernel header files for 4.13.0-rockchip-ayufan-118-gd3263fd on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 5b25995d84e98634c1efe7fd848e5d56
+SHA1: 3b80c743b475cd1122e954b51a2c952869e8916f
+SHA256: 6358f1f6b1495746444d7a64d51ce58ec8cda35a2a7328b56103f29255a014ce
+SHA512: 150228edbac29610ff7cb256efcfe7fe8e9dcc5928f012181143176e77bed76869acd365435f03ce25dd4a4de9f07618cabe8518c81c4bd2a28ac75308202c5c
+Filename: download/linux-build/0.5.10/linux-headers-4.13.0-rockchip-ayufan-118-gd3263fd_0.5.10_arm64.deb
+Size: 10638834
+
+Package: linux-headers-4.4.70-ayufan-28
+Source: linux-4.4.70-ayufan-28
+Version: 0.2.0
+Architecture: arm64
+Maintainer: Anonymous <root@b611ec84c63f>
+Installed-Size: 46422
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.70-ayufan-28 on arm64
+ This package provides kernel header files for 4.4.70-ayufan-28 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 745806ba44f1bd51f8f1cf28066753d9
+SHA1: 0ea5af0b366b3519a395638e4916e4397aba0d11
+SHA256: c1d44aa7d1700335c8236cfd76b0fba63825e6b64fe9dba731d435311feeb10d
+SHA512: 178ed06386a7273fd39dc6403033b745d78fe84441af5b99f90a6af2b7d0c292c0f7de956a912567bc322761a054602e2b57f02094a316bcc54169201a24f607
+Filename: download/linux-build/0.2.0/linux-headers-4.4.70-ayufan-28_0.2.0_arm64.deb
+Size: 7247686
+
+Package: linux-headers-4.4.70-ayufan-29
+Source: linux-4.4.70-ayufan-29
+Version: 0.2.1
+Architecture: arm64
+Maintainer: Anonymous <root@8774761d3ae4>
+Installed-Size: 46422
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.70-ayufan-29 on arm64
+ This package provides kernel header files for 4.4.70-ayufan-29 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: dee7b7910c5c778ed3e03b40d690e806
+SHA1: bb785ece3f4b9f2fbf1563103a4b4b4c611a2dbc
+SHA256: add3df6fdb88a85933b6735d68982b340ff5de8dc005d1192ee59380aac5412d
+SHA512: 5ce1a4a688e6ff7c2b1bc4790c1b1a220add274cd4208dccb8cb6bee5ec7789f48ca91e619b2cd40fbffe3755190c50223b9ce356d209332261d16dba883d7cd
+Filename: download/linux-build/0.2.1/linux-headers-4.4.70-ayufan-29_0.2.1_arm64.deb
+Size: 7250066
+
+Package: linux-headers-4.4.70-rockchip-ayufan-54
+Source: linux-4.4.70-rockchip-ayufan-54
+Version: 0.3.2
+Architecture: arm64
+Maintainer: Anonymous <root@eb0a4070ce44>
+Installed-Size: 46993
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.70-rockchip-ayufan-54 on arm64
+ This package provides kernel header files for 4.4.70-rockchip-ayufan-54 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: fe688cbbf12a0fa555eb8d58d2de7723
+SHA1: 89fe9764302fe828ac29c6de8aa5bba9b87abb54
+SHA256: a5f2d9bc71c3c94b97229d786271abb3ca3c1ebd28140ea96631236ccb05e66c
+SHA512: 55d2430ff4849572aa97ed10ee0ff83176188323ccb2a071099439e338c421ede8bd355fc47309e2bd3761f729fbb0b7ffc90d2a088033f717dcafd1ecd2b43d
+Filename: download/linux-build/0.3.2/linux-headers-4.4.70-rockchip-ayufan-54_0.3.2_arm64.deb
+Size: 7282560
+
+Package: linux-headers-4.4.70-rockchip-ayufan-55
+Source: linux-4.4.70-rockchip-ayufan-55
+Version: 0.3.3
+Architecture: arm64
+Maintainer: Anonymous <root@6dccca718e3e>
+Installed-Size: 46993
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.70-rockchip-ayufan-55 on arm64
+ This package provides kernel header files for 4.4.70-rockchip-ayufan-55 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 73a93e824dd99b5d7b58b8eea2dcf351
+SHA1: b5eb91011bda021c729b467b2c08c6d38b0bc90c
+SHA256: 0ae47dd843c20b07009e181a540907f0a5335fc19626fceb7801a9c403ad41d5
+SHA512: 26f279779fc7d4f55cca577151629aa1a4d273153e6614126af205e323a171bed64b66801f7dfcc93150768eac002e31fd2baf79f58d30ab2f9d6369e48a438a
+Filename: download/linux-build/0.3.3/linux-headers-4.4.70-rockchip-ayufan-55_0.3.3_arm64.deb
+Size: 7282298
+
+Package: linux-headers-4.4.70-rockchip-ayufan-57
+Source: linux-4.4.70-rockchip-ayufan-57
+Version: 0.3.4
+Architecture: arm64
+Maintainer: Anonymous <root@fc86bce98cec>
+Installed-Size: 46993
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.70-rockchip-ayufan-57 on arm64
+ This package provides kernel header files for 4.4.70-rockchip-ayufan-57 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 131992c9071d953a561ce086b3a4bdda
+SHA1: 720a81466dc425db2b00e43cd3602b9ad4b3636c
+SHA256: 500d7206abb6e4b7bff166e00946d51fb2d684d606170873d85d4998100e19f0
+SHA512: c838e0b104728cf1acecbe41b2749dd939e91242415692f04b42b943dd946af8c9e478f2526f7822050f16fe8e8844b47df433160359f39d1aeac3c823b54225
+Filename: download/linux-build/0.3.4/linux-headers-4.4.70-rockchip-ayufan-57_0.3.4_arm64.deb
+Size: 7281840
+
+Package: linux-headers-4.4.70-rockchip-ayufan-62
+Source: linux-4.4.70-rockchip-ayufan-62
+Version: 0.3.7
+Architecture: arm64
+Maintainer: Anonymous <root@645a5c5f7ae4>
+Installed-Size: 47004
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.70-rockchip-ayufan-62 on arm64
+ This package provides kernel header files for 4.4.70-rockchip-ayufan-62 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 797e5ad0f7054307f74ccc22e9e5c659
+SHA1: f080be96758c2bb925b1931541f23591a8d5c14f
+SHA256: f5facec9531a1dab464902241c355962f1c30b4723ad3580dc1ae543a6d04796
+SHA512: 60e3dd1bdce791174b0054fae84e010c410e925d05bac92373c5605f23e49686b3f6c14d395eee0a451c06a6b1711b6206717dc021afe83ad594ad591e95ac43
+Filename: download/linux-build/0.3.7/linux-headers-4.4.70-rockchip-ayufan-62_0.3.7_arm64.deb
+Size: 7282484
+
+Package: linux-headers-4.4.70-rockchip-ayufan-66
+Source: linux-4.4.70-rockchip-ayufan-66
+Version: 0.4.3
+Architecture: arm64
+Maintainer: Anonymous <root@d75ef99673cb>
+Installed-Size: 47012
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.70-rockchip-ayufan-66 on arm64
+ This package provides kernel header files for 4.4.70-rockchip-ayufan-66 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 5dbcaeb875587b4f01c25d8a08d9dbdd
+SHA1: 495c80ac8edfd84e25cdaa1b36b167722c94a8d1
+SHA256: 2db016aa8a54da93b6f89bde55432ab4a4d1ed313dc2bcc6be0cd2c59c542f52
+SHA512: e07cfa9fce0c6e13b80da6e87cb9058cfff3741cb3dca1ea13196f860f80a3ebbf17d5eafafd92d72b4daeabbc7c9a6afc9cca187c48d115186c99ab3ee7fa8a
+Filename: download/linux-build/0.4.3/linux-headers-4.4.70-rockchip-ayufan-66_0.4.3_arm64.deb
+Size: 7283300
+
+Package: linux-headers-4.4.70-rockchip-ayufan-83
+Source: linux-4.4.70-rockchip-ayufan-83
+Version: 0.4.16
+Architecture: arm64
+Maintainer: Anonymous <root@696207e32f2d>
+Installed-Size: 47011
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.70-rockchip-ayufan-83 on arm64
+ This package provides kernel header files for 4.4.70-rockchip-ayufan-83 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 15d52f3bccef565ad57188b49168dcb0
+SHA1: bc6d288e141869d0290aa46b93ba9679f0da96e8
+SHA256: 415484dd4455819f53445450d255b798c3acb5b36d1d5542e71f664064c63ba8
+SHA512: 7747533dbcc5cee061ce3eebebcbb262fec36e184af8c20c9ea8d0c404c6233f06f1a730fbdb361b1af62418ffbe2e98b313e7d01f1dd9b39d779d31987041e5
+Filename: download/linux-build/0.4.16/linux-headers-4.4.70-rockchip-ayufan-83_0.4.16_arm64.deb
+Size: 7281970
+
+Package: linux-headers-4.4.70-rockchip-ayufan-85
+Source: linux-4.4.70-rockchip-ayufan-85
+Version: 0.4.17
+Architecture: arm64
+Maintainer: Anonymous <root@c6610ffc78ec>
+Installed-Size: 47011
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.70-rockchip-ayufan-85 on arm64
+ This package provides kernel header files for 4.4.70-rockchip-ayufan-85 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 430b786bf9d1e23cacae86557c403a2e
+SHA1: 12eb2c0bc2203d6a5ca77c9e8d99ace0b6f3ca3f
+SHA256: ea907fa8e4df0ecb42cc2d5020a3ce6ea2c0c105889833e224f3a6624e9c77b6
+SHA512: 134ade797261aa997c116714ae165cc31e99f17c6ceae705d41cbf2a8878e03202bdf220ba1a36fa256fee4783c88ecc255c7064ac0493614b74be78cfa2798c
+Filename: download/linux-build/0.4.17/linux-headers-4.4.70-rockchip-ayufan-85_0.4.17_arm64.deb
+Size: 7283210
+
+Package: linux-headers-4.4.71-rockchip-ayufan-77
+Source: linux-4.4.71-rockchip-ayufan-77
+Version: 0.4.12
+Architecture: arm64
+Maintainer: Anonymous <root@af7866c094b8>
+Installed-Size: 47054
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.71-rockchip-ayufan-77 on arm64
+ This package provides kernel header files for 4.4.71-rockchip-ayufan-77 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 654367dca099d1d546f4966c5c3819b4
+SHA1: 9b41fa6af521b5b52090d234d02c18906705e046
+SHA256: 3eb2cedd8cdeac1eedd5a51e475a689f9843e73b86af31465e2338535f50f7f2
+SHA512: 7f69b91a16eff6d27778f95ee030dd4ef51aeeae1a7e5dadf84a9b69dc54cc084c3f936706605ecfdbfe82fab3a90ec62e9f7aa38aaeffdc638ee5a7d836e20c
+Filename: download/linux-build/0.4.12/linux-headers-4.4.71-rockchip-ayufan-77_0.4.12_arm64.deb
+Size: 7288670
+
+Package: linux-headers-4.4.77-rockchip-ayufan-102
+Source: linux-4.4.77-rockchip-ayufan-102
+Version: 0.5.8
+Architecture: arm64
+Maintainer: Anonymous <root@2c37f7039ae3>
+Installed-Size: 47170
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.77-rockchip-ayufan-102 on arm64
+ This package provides kernel header files for 4.4.77-rockchip-ayufan-102 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 903cd4779a1ebdce9ac9ba7a62799f2b
+SHA1: 1c0bcbf9832bc376651393740ee84105256ae6ec
+SHA256: 8b1d1aa2cd88867e9bc7dcd6f9e02b88427dc03172eb0a0bfdff8adc6e8a0ec4
+SHA512: df5cc3df4e687b33dfc5cb53ae65e535887438947e98fc085811dca6cf666649bcedcfad7586905094154e8bdec8efa6eaaf54239a0455fcdc79591ddf606e79
+Filename: download/linux-build/0.5.8/linux-headers-4.4.77-rockchip-ayufan-102_0.5.8_arm64.deb
+Size: 7298416
+
+Package: linux-headers-4.4.77-rockchip-ayufan-104
+Source: linux-4.4.77-rockchip-ayufan-104
+Version: 0.5.9
+Architecture: arm64
+Maintainer: Anonymous <root@494431924f07>
+Installed-Size: 47170
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.77-rockchip-ayufan-104 on arm64
+ This package provides kernel header files for 4.4.77-rockchip-ayufan-104 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: ac33a42a287f50d32e5fe1bfd09d92aa
+SHA1: 5ff40a5fb346f7b44cbc6c33d53966a36db1e000
+SHA256: d06a36d1167cb527d4ea911cf356e449750de787cc39b1bca3d21b29a7a2d68e
+SHA512: a890c03d6230a47e377833a58e4144c139c384547ef0cef9b925ad0291e67c844b236171a316729f9ab541f6d4c1060fbea80b46ee2e8d959afd809f497e40ed
+Filename: download/linux-build/0.5.9/linux-headers-4.4.77-rockchip-ayufan-104_0.5.9_arm64.deb
+Size: 7298142
+
+Package: linux-headers-4.4.77-rockchip-ayufan-118
+Source: linux-4.4.77-rockchip-ayufan-118
+Version: 0.5.10
+Architecture: arm64
+Maintainer: Anonymous <root@e4248ef129ba>
+Installed-Size: 69983
+Provides: linux-headers, linux-headers-2.6
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel headers for 4.4.77-rockchip-ayufan-118 on arm64
+ This package provides kernel header files for 4.4.77-rockchip-ayufan-118 on arm64
+ .
+ This is useful for people who need to build external modules
+MD5sum: 5faabbdfd391d8f1b3ef10a486a731f3
+SHA1: 6e7dfb6d75422845fcfa6f09c3f3f4ce4fe82bd4
+SHA256: 7bf03698725d945bdc3eebc49b7055b7518b93b004ce71e71582bc325184ae76
+SHA512: cf8391a03bf6e282320b019665bcec9829fd2805fe54b02183c41bf8c0252b088cf9829176522e68fb624fc4ca64715db88980acb8536e5f7d4579d83fc3e7e6
+Filename: download/linux-build/0.5.10/linux-headers-4.4.77-rockchip-ayufan-118_0.5.10_arm64.deb
+Size: 10183624
+
+Package: linux-image-4.13.0-rc1-rockchip-ayufan-102-g6104f84
+Source: linux-4.13.0-rc1-rockchip-ayufan-102-g6104f84
+Version: 0.5.8
+Architecture: arm64
+Maintainer: Anonymous <root@2c37f7039ae3>
+Installed-Size: 39730
+Suggests: linux-firmware-image-4.13.0-rc1-rockchip-ayufan-102-g6104f84
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.13.0-rc1-rockchip-ayufan-102-g6104f84
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.13.0-rc1-rockchip-ayufan-102-g6104f84.
+MD5sum: 3550e2c640c718e112f84729446eb0e4
+SHA1: 6a6676a28601d6773a34aa4111f873a161298a36
+SHA256: 3c913f649e678edf76c3734d6ea6ab94de90833cdea18bc271198839102a9efe
+SHA512: 20a29aa7f1d3afaed763ae48b0dc2f1f89ce7bd7c7339c0ca887da65cefee6cece80cf43db585d20cbcb5851be1ad2c42fd8aef26154ec20e9af27d3d7651f69
+Filename: download/linux-build/0.5.8/linux-image-4.13.0-rc1-rockchip-ayufan-102-g6104f84_0.5.8_arm64.deb
+Size: 10668878
+
+Package: linux-image-4.13.0-rc1-rockchip-ayufan-102-g6104f84-dbg
+Source: linux-4.13.0-rc1-rockchip-ayufan-102-g6104f84
+Version: 0.5.8
+Architecture: arm64
+Maintainer: Anonymous <root@2c37f7039ae3>
+Installed-Size: 469503
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.13.0-rc1-rockchip-ayufan-102-g6104f84
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: b815a6717a4e2cff4962bb6bc101e9d9
+SHA1: df3e30f54a495dc34bf9f45b89362833320511ef
+SHA256: 05c5d25e16e9ac39e319a0b3d6cace117bc4d517ae82aa667cb30632f48a7ef6
+SHA512: 28fe9efb0fc80c4ffe4a690ec241dcc05759a3a31517593b5d61d3e3e8c15c5024f856d826b4fbfc5f41a46baa728defa83b1e7d22428ea86c0f42ce29f07555
+Filename: download/linux-build/0.5.8/linux-image-4.13.0-rc1-rockchip-ayufan-102-g6104f84-dbg_0.5.8_arm64.deb
+Size: 90148766
+
+Package: linux-image-4.13.0-rc1-rockchip-ayufan-104-g6104f84
+Source: linux-4.13.0-rc1-rockchip-ayufan-104-g6104f84
+Version: 0.5.9
+Architecture: arm64
+Maintainer: Anonymous <root@494431924f07>
+Installed-Size: 39730
+Suggests: linux-firmware-image-4.13.0-rc1-rockchip-ayufan-104-g6104f84
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.13.0-rc1-rockchip-ayufan-104-g6104f84
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.13.0-rc1-rockchip-ayufan-104-g6104f84.
+MD5sum: 3d7e4e7d7cc60f3055e2fbf63e54d8db
+SHA1: 3c97e14eedecbe1b1b1fcbe2e020d722cda3293c
+SHA256: 000d76e2b32056c2a46cf1f5161d0e80358a2b73985968fae614842c1bdb5119
+SHA512: e227741aee4b22baeac20f34dbd91e9490f235e08296f3bf5342a6757ab44ef20f320e6763e6eb8632dd41309726483ea6b2b87e76de2add8085e7c252fdf228
+Filename: download/linux-build/0.5.9/linux-image-4.13.0-rc1-rockchip-ayufan-104-g6104f84_0.5.9_arm64.deb
+Size: 10667458
+
+Package: linux-image-4.13.0-rc1-rockchip-ayufan-104-g6104f84-dbg
+Source: linux-4.13.0-rc1-rockchip-ayufan-104-g6104f84
+Version: 0.5.9
+Architecture: arm64
+Maintainer: Anonymous <root@494431924f07>
+Installed-Size: 469503
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.13.0-rc1-rockchip-ayufan-104-g6104f84
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: 82d1e7a50819b27a179d2aa0e6b59689
+SHA1: 051bbda0c7c474d00be50e7f6153670cc7caf295
+SHA256: 86cdc8f3fd60b648a8d953f3a6f2702f34c1e1c23e7a19a77db8662a72b03690
+SHA512: ce8a1ebeb2d813ce90505393eab1ae1532a84f87f5dedb49b06dd4c51bb3058106cfdb8eb8528b696e154e02ee4bcbc7c9b1307dc149edf100a2cf8098f8f1a4
+Filename: download/linux-build/0.5.9/linux-image-4.13.0-rc1-rockchip-ayufan-104-g6104f84-dbg_0.5.9_arm64.deb
+Size: 90116000
+
+Package: linux-image-4.13.0-rockchip-ayufan-118-gd3263fd
+Source: linux-4.13.0-rockchip-ayufan-118-gd3263fd
+Version: 0.5.10
+Architecture: arm64
+Maintainer: Anonymous <root@e4248ef129ba>
+Installed-Size: 40455
+Suggests: linux-firmware-image-4.13.0-rockchip-ayufan-118-gd3263fd
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.13.0-rockchip-ayufan-118-gd3263fd
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.13.0-rockchip-ayufan-118-gd3263fd.
+MD5sum: ce1bc47a240b3e461bd8651d2b2ee238
+SHA1: ed1eedb34227feb26c934a5cc6e64e87af75f9c6
+SHA256: 131f97f00e621ade8b93a6b551613eef4b5b3b8db18cbe793e18d9beb763227f
+SHA512: 2d881bd7d8efd8316a063ee5848b9d5b1460ee46616bdedecde0d8ed0757ee73f6408f94fb87a1f724976ee8100a9292ed9ee529fee6f8eb471c83b9094247bd
+Filename: download/linux-build/0.5.10/linux-image-4.13.0-rockchip-ayufan-118-gd3263fd_0.5.10_arm64.deb
+Size: 10795664
+
+Package: linux-image-4.13.0-rockchip-ayufan-118-gd3263fd-dbg
+Source: linux-4.13.0-rockchip-ayufan-118-gd3263fd
+Version: 0.5.10
+Architecture: arm64
+Maintainer: Anonymous <root@e4248ef129ba>
+Installed-Size: 480914
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.13.0-rockchip-ayufan-118-gd3263fd
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: 1d018018fdaab3af2a0e3185e03cf3d5
+SHA1: 52dda92ae139501d4f695ce756aae17499543604
+SHA256: 4eff000f9b5aa7c7c658abdb41fbac2bb97b6f02778609cdd41e6d5c3e39f694
+SHA512: ec852a6ccf393a2a217abb598dcb42d55c3f41e6af8d60d51194fa3ac1b8347217d621db8d270f3469eba6e5cd19124bf051f25fc1562d711c248bca4c947f7e
+Filename: download/linux-build/0.5.10/linux-image-4.13.0-rockchip-ayufan-118-gd3263fd-dbg_0.5.10_arm64.deb
+Size: 91814264
+
+Package: linux-image-4.4.70-ayufan-28
+Source: linux-4.4.70-ayufan-28
+Version: 0.2.0
+Architecture: arm64
+Maintainer: Anonymous <root@b611ec84c63f>
+Installed-Size: 24908
+Suggests: linux-firmware-image-4.4.70-ayufan-28
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.70-ayufan-28
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.70-ayufan-28
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.70-ayufan-28.
+MD5sum: d9f556003480958ddaf091bb9e65f310
+SHA1: aa32999f0323499be1b92c6ef4cf0a8748ed770d
+SHA256: 7c58c0437cdf90d96b01a91a2065353d287737b00cffa2b9c9ba35124f7b3ff5
+SHA512: b0a71ee46af1630626a609450efc49cb5baef460b927a368be99eb2370829f0157fa9212738f3cfaf10e004ee1bcaf410694943a4a7ffcfc3eb5dfbc288891b7
+Filename: download/linux-build/0.2.0/linux-image-4.4.70-ayufan-28_0.2.0_arm64.deb
+Size: 6301704
+
+Package: linux-image-4.4.70-ayufan-28-dbg
+Source: linux-4.4.70-ayufan-28
+Version: 0.2.0
+Architecture: arm64
+Maintainer: Anonymous <root@b611ec84c63f>
+Installed-Size: 200971
+Provides: linux-debug, linux-debug-4.4.70-ayufan-28
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.70-ayufan-28
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: d9f342e37959f2484f919df41429dac2
+SHA1: 3970ebed7fc8487adb8f44b1d5b172046c26b83d
+SHA256: df11476be963b1ae6724a8bdbf010901e0213e8e425d23cc5083d19bbf0b95b4
+SHA512: ac7158f0aede3a02f07d4d6a17725f837e7b7d32e4d427346563f68337613a9fd4f6ec941ec67f4e8c138710a3d6b424afb864bf76dcf77f85414c3d21eac660
+Filename: download/linux-build/0.2.0/linux-image-4.4.70-ayufan-28-dbg_0.2.0_arm64.deb
+Size: 45077970
+
+Package: linux-image-4.4.70-ayufan-29
+Source: linux-4.4.70-ayufan-29
+Version: 0.2.1
+Architecture: arm64
+Maintainer: Anonymous <root@8774761d3ae4>
+Installed-Size: 24908
+Suggests: linux-firmware-image-4.4.70-ayufan-29
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.70-ayufan-29
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.70-ayufan-29
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.70-ayufan-29.
+MD5sum: 9d7224055dd895d914e59c4335d37060
+SHA1: 6d426d03528f38017b4d44cd7806c530536d5712
+SHA256: 62c7e7dc8d75401e3064a6f2df6411b067447a0458b6472d768d5670ca39fa3f
+SHA512: d4acc4edadd4bfbf79f8ecf2d91694d880253e3e281af57201865fc7c54fadc8b51071ccc5785e1535fab0cedd9cda772dc9b13d866e70e12d8110a16f60f76b
+Filename: download/linux-build/0.2.1/linux-image-4.4.70-ayufan-29_0.2.1_arm64.deb
+Size: 6300578
+
+Package: linux-image-4.4.70-ayufan-29-dbg
+Source: linux-4.4.70-ayufan-29
+Version: 0.2.1
+Architecture: arm64
+Maintainer: Anonymous <root@8774761d3ae4>
+Installed-Size: 200971
+Provides: linux-debug, linux-debug-4.4.70-ayufan-29
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.70-ayufan-29
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: fe4a03e15aa68ee287c4704a870865d0
+SHA1: 4eac769addf4352c0c57beb4c9dcbc62ad9cc41d
+SHA256: de77310798df78389f5a473b576288967b267db23ee74621aaaca5fe9515b717
+SHA512: 68ebdc7d021584ce7bf8684f071e82bcf1527a77ce4266f20a4fee08aa90cac903e74c16060c45ea45aea61b4994c9b62543cf85b94d1b6c2d03d5fef6106711
+Filename: download/linux-build/0.2.1/linux-image-4.4.70-ayufan-29-dbg_0.2.1_arm64.deb
+Size: 45069454
+
+Package: linux-image-4.4.70-rockchip-ayufan-54
+Source: linux-4.4.70-rockchip-ayufan-54
+Version: 0.3.2
+Architecture: arm64
+Maintainer: Anonymous <root@eb0a4070ce44>
+Installed-Size: 47299
+Suggests: linux-firmware-image-4.4.70-rockchip-ayufan-54
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.70-rockchip-ayufan-54
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.70-rockchip-ayufan-54
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.70-rockchip-ayufan-54.
+MD5sum: 45627a0d8a54b335906bebc63aa3dd53
+SHA1: 99707d8047f7cc700a3a50d248b4afa6a8c40cfc
+SHA256: a35c851451c529b826644cbe1ac952715cb4bf8d3039e513182a759a4c916220
+SHA512: 69cd9f6bc73519fbf754623425b1971873a1e68a93fc4ccdba94e5a5bb980fef7a8be3535bf56680cbafad07342a3bd248a2fb52cb7734b6fc580fe64e7732e4
+Filename: download/linux-build/0.3.2/linux-image-4.4.70-rockchip-ayufan-54_0.3.2_arm64.deb
+Size: 9871306
+
+Package: linux-image-4.4.70-rockchip-ayufan-54-dbg
+Source: linux-4.4.70-rockchip-ayufan-54
+Version: 0.3.2
+Architecture: arm64
+Maintainer: Anonymous <root@eb0a4070ce44>
+Installed-Size: 516317
+Provides: linux-debug, linux-debug-4.4.70-rockchip-ayufan-54
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.70-rockchip-ayufan-54
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: 94e0d34849c9fd4713cf34b1a6917cda
+SHA1: 5fdacd4574e185e7606c7ec665aaeec5c912b73c
+SHA256: 15ba882db73a13003d59f687c84beacaebd04ffdc91971c08d1f6ca0e62bad10
+SHA512: 0d262d615760bb2a50ad2201936331af035198b8c0722b7fb9a9f08ca93d760f816f187c311efd52dde6f48e8b2572dbfb29c0d7e536e14b07c49f8fdbc18240
+Filename: download/linux-build/0.3.2/linux-image-4.4.70-rockchip-ayufan-54-dbg_0.3.2_arm64.deb
+Size: 85025206
+
+Package: linux-image-4.4.70-rockchip-ayufan-55
+Source: linux-4.4.70-rockchip-ayufan-55
+Version: 0.3.3
+Architecture: arm64
+Maintainer: Anonymous <root@6dccca718e3e>
+Installed-Size: 47299
+Suggests: linux-firmware-image-4.4.70-rockchip-ayufan-55
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.70-rockchip-ayufan-55
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.70-rockchip-ayufan-55
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.70-rockchip-ayufan-55.
+MD5sum: 7fce29510cde148b984f56386fd232aa
+SHA1: 5d0919144e491b93bcd6b1a74de36ccbfde9652e
+SHA256: 78a1c63b2a57c1783b74d9a3ff408a0c7374cb616991bd942907fe0f4b48096d
+SHA512: 37cc58750f0c219cde32a1af96d24e66f003144279d1bca7f8615a34e61a5534f9f95c828af906ffa9095e40d0480155e6bd377675cd19155c78ed039db81c3a
+Filename: download/linux-build/0.3.3/linux-image-4.4.70-rockchip-ayufan-55_0.3.3_arm64.deb
+Size: 9873970
+
+Package: linux-image-4.4.70-rockchip-ayufan-55-dbg
+Source: linux-4.4.70-rockchip-ayufan-55
+Version: 0.3.3
+Architecture: arm64
+Maintainer: Anonymous <root@6dccca718e3e>
+Installed-Size: 516317
+Provides: linux-debug, linux-debug-4.4.70-rockchip-ayufan-55
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.70-rockchip-ayufan-55
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: e6df833d2f1854aa320194f6d563d09c
+SHA1: 683892170f70c9b0dd45591dd97b689c77601d06
+SHA256: cb484bcfa747d982c3b8e9616046e23fcbc46a3bdf86bc09c0e8563de0241bbf
+SHA512: 5dae4d90874218e53f5372e0bcdb8fb03f86474ef038fb013b6e1d4d6e57e39ffde85db5b7aa30a6d60644669999e620c736bf50c2b9b451ad8e45db225f43cb
+Filename: download/linux-build/0.3.3/linux-image-4.4.70-rockchip-ayufan-55-dbg_0.3.3_arm64.deb
+Size: 85040380
+
+Package: linux-image-4.4.70-rockchip-ayufan-57
+Source: linux-4.4.70-rockchip-ayufan-57
+Version: 0.3.4
+Architecture: arm64
+Maintainer: Anonymous <root@fc86bce98cec>
+Installed-Size: 47362
+Suggests: linux-firmware-image-4.4.70-rockchip-ayufan-57
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.70-rockchip-ayufan-57
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.70-rockchip-ayufan-57
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.70-rockchip-ayufan-57.
+MD5sum: bb7d1e2ee2232e5acb4b09e5bd6349e3
+SHA1: 2e14798696afa67a2bba44086d3043660e8ac5c4
+SHA256: 389572bedba6cf9442ffaad1d9c9e3231a3ddceaa8cb34ad16e235d3b8e83744
+SHA512: e52fe96d8ac09c2d3d02b445c18f2d2ad8c7d5651125bcdb8d051bdaa30ddc5fb68bbf06d52032e7b0e467cebc48c14739adbda48b830e06ddc21c640c32686d
+Filename: download/linux-build/0.3.4/linux-image-4.4.70-rockchip-ayufan-57_0.3.4_arm64.deb
+Size: 9844492
+
+Package: linux-image-4.4.70-rockchip-ayufan-57-dbg
+Source: linux-4.4.70-rockchip-ayufan-57
+Version: 0.3.4
+Architecture: arm64
+Maintainer: Anonymous <root@fc86bce98cec>
+Installed-Size: 516390
+Provides: linux-debug, linux-debug-4.4.70-rockchip-ayufan-57
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.70-rockchip-ayufan-57
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: 3bedac6fdb69329577a1fc8a0828fceb
+SHA1: d9e3366f9321cf9c78135aa420fdfa9dcd8f82ed
+SHA256: 58e4abd06113a7f8651a89bff1b1b75b36f2294fd0a41c83ee9e58b53b84d09c
+SHA512: 1b724787a979ce03e5f9770bfb390cac053b9bdb71ccc03403c7d9ceff553e589d1802706f32a064d0bb622d5776a31be2d85a3b0e9d961384e3b646fb8a1503
+Filename: download/linux-build/0.3.4/linux-image-4.4.70-rockchip-ayufan-57-dbg_0.3.4_arm64.deb
+Size: 85051830
+
+Package: linux-image-4.4.70-rockchip-ayufan-62
+Source: linux-4.4.70-rockchip-ayufan-62
+Version: 0.3.7
+Architecture: arm64
+Maintainer: Anonymous <root@645a5c5f7ae4>
+Installed-Size: 47571
+Suggests: linux-firmware-image-4.4.70-rockchip-ayufan-62
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.70-rockchip-ayufan-62
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.70-rockchip-ayufan-62
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.70-rockchip-ayufan-62.
+MD5sum: 6bb381b9f9015ba3e71314b06dfd04a7
+SHA1: dc9369e148c036a29ea74ab68429984197e71cf3
+SHA256: f902770b5004b06ca984a3f95d8dc4bb3e3aa7925b1ba8f515b25887f1c8ff14
+SHA512: fe5b9fbc629e8f97174b1bb1c3aec9d41a7d9d4654144a152d3e65960b91a050577ddb398961b4bc74bde84a8e2bf03d3794b3df3e86cc2c497e3d5cb75351de
+Filename: download/linux-build/0.3.7/linux-image-4.4.70-rockchip-ayufan-62_0.3.7_arm64.deb
+Size: 9936364
+
+Package: linux-image-4.4.70-rockchip-ayufan-62-dbg
+Source: linux-4.4.70-rockchip-ayufan-62
+Version: 0.3.7
+Architecture: arm64
+Maintainer: Anonymous <root@645a5c5f7ae4>
+Installed-Size: 526427
+Provides: linux-debug, linux-debug-4.4.70-rockchip-ayufan-62
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.70-rockchip-ayufan-62
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: b97a4042a7be4906d8fc9383c14f3485
+SHA1: 78bb80311aebda4d21ea85dd717e48ddc106c9ac
+SHA256: 783da6ba009a8810ce0a21632539c65d1d4b5715271fb953f6da1837ecbad6aa
+SHA512: 262a6a4f993564e2fd8fcb55cb463f48139228e35212785e2d7a608ab8475c5ab20a5b5921af79be996366592f0337434d35938f179b2256975b4c42e6223549
+Filename: download/linux-build/0.3.7/linux-image-4.4.70-rockchip-ayufan-62-dbg_0.3.7_arm64.deb
+Size: 86878484
+
+Package: linux-image-4.4.70-rockchip-ayufan-66
+Source: linux-4.4.70-rockchip-ayufan-66
+Version: 0.4.3
+Architecture: arm64
+Maintainer: Anonymous <root@d75ef99673cb>
+Installed-Size: 47572
+Suggests: linux-firmware-image-4.4.70-rockchip-ayufan-66
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.70-rockchip-ayufan-66
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.70-rockchip-ayufan-66
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.70-rockchip-ayufan-66.
+MD5sum: 2bdfab0ca1cfdb4b74519f933de996aa
+SHA1: 77dbac7a93a351e77f4733b4bac4d418c5737dfc
+SHA256: 567e26f85f1697f02d0bffcde75648b500e083b991e6e8b8e7ce522267a8ce9c
+SHA512: 174f3cc24918295ebd7bde1c675755d45644f100d4b4f596e737d9ba0a81cf5088de85e6ac7ec896aac78907b795a26f5359135da0a08808bc7d61db9f0b67dd
+Filename: download/linux-build/0.4.3/linux-image-4.4.70-rockchip-ayufan-66_0.4.3_arm64.deb
+Size: 9933948
+
+Package: linux-image-4.4.70-rockchip-ayufan-66-dbg
+Source: linux-4.4.70-rockchip-ayufan-66
+Version: 0.4.3
+Architecture: arm64
+Maintainer: Anonymous <root@d75ef99673cb>
+Installed-Size: 526418
+Provides: linux-debug, linux-debug-4.4.70-rockchip-ayufan-66
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.70-rockchip-ayufan-66
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: 5b9a6b65c42a63edf08bdb96d3bf073d
+SHA1: e8a1ba042fe84f2fa7cb924fda4fd12ec116c74f
+SHA256: 909aa4111e36518e3afc1da7f3fb80ee490caf01eb021592d8ec06dd7e2d939d
+SHA512: eead2d3a2f8652f05845e33168307022138d182dcd67052ccbf9575ef5b7ae74f7598b847b71473154eb3d7ece1bb6a5b9d4f227c0ed9e023b4548000feb5adf
+Filename: download/linux-build/0.4.3/linux-image-4.4.70-rockchip-ayufan-66-dbg_0.4.3_arm64.deb
+Size: 86872322
+
+Package: linux-image-4.4.70-rockchip-ayufan-83
+Source: linux-4.4.70-rockchip-ayufan-83
+Version: 0.4.16
+Architecture: arm64
+Maintainer: Anonymous <root@696207e32f2d>
+Installed-Size: 47572
+Suggests: linux-firmware-image-4.4.70-rockchip-ayufan-83
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.70-rockchip-ayufan-83
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.70-rockchip-ayufan-83
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.70-rockchip-ayufan-83.
+MD5sum: 871a944af43eed737f669c8064b65070
+SHA1: 71e6b8522075fc952ae80a1a6bf139e47767d695
+SHA256: 1680b714001014237043f465e4cb1285aeb58d2d78ffb1c2f48fa254bd0bfeb9
+SHA512: d00facb9ab504559f87048d74fefbcd37e215d41d38563fdced515622a6820207deebe9fc3028b9130f4e130dc0b5fe34aeb9765a66c1c9640f947d06669b020
+Filename: download/linux-build/0.4.16/linux-image-4.4.70-rockchip-ayufan-83_0.4.16_arm64.deb
+Size: 9923914
+
+Package: linux-image-4.4.70-rockchip-ayufan-83-dbg
+Source: linux-4.4.70-rockchip-ayufan-83
+Version: 0.4.16
+Architecture: arm64
+Maintainer: Anonymous <root@696207e32f2d>
+Installed-Size: 526386
+Provides: linux-debug, linux-debug-4.4.70-rockchip-ayufan-83
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.70-rockchip-ayufan-83
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: e2aafe9ac69e4be9ce60b88eedf1ed0b
+SHA1: 6675d3a9cadd99a223a1fbe6785c429d6fe8208c
+SHA256: f07741cbf4a2051c47423bb636709d22b4d1a1195d6a0580364497dd3e8ecd3f
+SHA512: 3db727708558271da6e2bdcaca93fd1a50817694cc83694ce95fcb1ece0a770073a9bab5740c04a6c248e9df5e7134695d4fd3d8d18b09533b64db4d92e19b16
+Filename: download/linux-build/0.4.16/linux-image-4.4.70-rockchip-ayufan-83-dbg_0.4.16_arm64.deb
+Size: 86857886
+
+Package: linux-image-4.4.70-rockchip-ayufan-85
+Source: linux-4.4.70-rockchip-ayufan-85
+Version: 0.4.17
+Architecture: arm64
+Maintainer: Anonymous <root@c6610ffc78ec>
+Installed-Size: 47572
+Suggests: linux-firmware-image-4.4.70-rockchip-ayufan-85
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.70-rockchip-ayufan-85
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.70-rockchip-ayufan-85
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.70-rockchip-ayufan-85.
+MD5sum: 702cb31e08948cb1279d8294918492f2
+SHA1: a46d6039af05255b07829882fad3554d567071cd
+SHA256: 2bead23a13e8fe0402848f11f1eff0e94d0edc37af6aa7de8cb2c75f3e931b22
+SHA512: 651dc11d63b6d61eca1b4f2c26c0ed7870d304a47d5f605bf9ee604c642774333b2a79e00afd0da45fbcea8899f2834b2485b3d65ce2f8c106f04c80e3759388
+Filename: download/linux-build/0.4.17/linux-image-4.4.70-rockchip-ayufan-85_0.4.17_arm64.deb
+Size: 9935266
+
+Package: linux-image-4.4.70-rockchip-ayufan-85-dbg
+Source: linux-4.4.70-rockchip-ayufan-85
+Version: 0.4.17
+Architecture: arm64
+Maintainer: Anonymous <root@c6610ffc78ec>
+Installed-Size: 526386
+Provides: linux-debug, linux-debug-4.4.70-rockchip-ayufan-85
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.70-rockchip-ayufan-85
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: c88bd4123961f1d45ecf70114f6de825
+SHA1: 4403cd9a3effbdfe02a75433826dcbde88145f9a
+SHA256: 02d338e8138170add9f91feb915281b6b5a108a5516e09a899ecc9768ca21021
+SHA512: 6d9145adae18c2a2cd31680e767e3c9b66b81d1d6860f4c8a9516060cd6b8e5306beadd422c1dbb2ee41950a963871a643391a395f5808b169607a3b477dc35c
+Filename: download/linux-build/0.4.17/linux-image-4.4.70-rockchip-ayufan-85-dbg_0.4.17_arm64.deb
+Size: 86882196
+
+Package: linux-image-4.4.71-rockchip-ayufan-77
+Source: linux-4.4.71-rockchip-ayufan-77
+Version: 0.4.12
+Architecture: arm64
+Maintainer: Anonymous <root@af7866c094b8>
+Installed-Size: 47886
+Suggests: linux-firmware-image-4.4.71-rockchip-ayufan-77
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.71-rockchip-ayufan-77
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.71-rockchip-ayufan-77
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.71-rockchip-ayufan-77.
+MD5sum: c2c32cadb67645dabc5ec4cc6ab3f811
+SHA1: 223de19d6eb0158853ac7c2dca8af02a13afdaa9
+SHA256: bb0d306cd03cadc38204ca35f1dea544714bffd6ae35f0def29b2c3b1e163c41
+SHA512: 3c56d7381ae44ff218fce3f4f7a6213178b2636530356b4f4c2ddbca0ed11de2a7329750613462520d72379db544020e7b48cf5fedd7745302902126ac0dbb0b
+Filename: download/linux-build/0.4.12/linux-image-4.4.71-rockchip-ayufan-77_0.4.12_arm64.deb
+Size: 9994868
+
+Package: linux-image-4.4.71-rockchip-ayufan-77-dbg
+Source: linux-4.4.71-rockchip-ayufan-77
+Version: 0.4.12
+Architecture: arm64
+Maintainer: Anonymous <root@af7866c094b8>
+Installed-Size: 530364
+Provides: linux-debug, linux-debug-4.4.71-rockchip-ayufan-77
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.71-rockchip-ayufan-77
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: c35943e9a04deacd75ea1dcfa12c276f
+SHA1: 87a12ee8b5963df5acc985da47a136ea004c4157
+SHA256: 9771d50b5422e3272576d910d4da9df1404cf90500842bc54e8556de175911ea
+SHA512: e567f8776b480fba8b0fef06172f8d7996e78957756a1e1189fce6e3c95801a566d65a83e2b398bb2af998b48d55e7aacef4e9a2470ee5b8ae428deb6e4029fa
+Filename: download/linux-build/0.4.12/linux-image-4.4.71-rockchip-ayufan-77-dbg_0.4.12_arm64.deb
+Size: 87374372
+
+Package: linux-image-4.4.77-rockchip-ayufan-102
+Source: linux-4.4.77-rockchip-ayufan-102
+Version: 0.5.8
+Architecture: arm64
+Maintainer: Anonymous <root@2c37f7039ae3>
+Installed-Size: 51133
+Suggests: linux-firmware-image-4.4.77-rockchip-ayufan-102
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.77-rockchip-ayufan-102
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.77-rockchip-ayufan-102
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.77-rockchip-ayufan-102.
+MD5sum: 717e6ac70854702cb13b655d14dac2eb
+SHA1: 0161f17266185ce0783e152b1ed0675d1f995de6
+SHA256: fcbbcabdf7478147ff1dd3afb6e49e7ad7e98c13c0f473450910939dc0dbeb4c
+SHA512: d3f254f9d935d458af3afc62f03635c3429a1d4e519edcee34492243cc3de0b7cced53e1020cd268ac9181c70fcd682385d939ba370095df02a229dee287b7c6
+Filename: download/linux-build/0.5.8/linux-image-4.4.77-rockchip-ayufan-102_0.5.8_arm64.deb
+Size: 10434350
+
+Package: linux-image-4.4.77-rockchip-ayufan-102-dbg
+Source: linux-4.4.77-rockchip-ayufan-102
+Version: 0.5.8
+Architecture: arm64
+Maintainer: Anonymous <root@2c37f7039ae3>
+Installed-Size: 538602
+Provides: linux-debug, linux-debug-4.4.77-rockchip-ayufan-102
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.77-rockchip-ayufan-102
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: 6f0528b4f633502adcb8b8ba25dd2a36
+SHA1: b6e3aad2037eefd50e856455e694119de8749263
+SHA256: 859d6d21d6239fe738a4eeb5af5faa7ce4b76f46bb5d7dceb0b05230e86702da
+SHA512: 14537097aa1c220e4e03bb3f6481a862f1ded44c3adf2dd7c899e7d04e42228b8dfd33b516fe86348de63f98f0c7e5adcbd8e71d7401af35ef2e322d38e84e89
+Filename: download/linux-build/0.5.8/linux-image-4.4.77-rockchip-ayufan-102-dbg_0.5.8_arm64.deb
+Size: 88816026
+
+Package: linux-image-4.4.77-rockchip-ayufan-104
+Source: linux-4.4.77-rockchip-ayufan-104
+Version: 0.5.9
+Architecture: arm64
+Maintainer: Anonymous <root@494431924f07>
+Installed-Size: 51133
+Suggests: linux-firmware-image-4.4.77-rockchip-ayufan-104
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.77-rockchip-ayufan-104
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.77-rockchip-ayufan-104
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.77-rockchip-ayufan-104.
+MD5sum: 2e6f30355ce750432c41a4d18ecf42c2
+SHA1: ef20cebc5999311ef2ede7390d37a218d99bfaa7
+SHA256: c27bd0b9fb72f3cdf05a1a488bdf02a4e4fc513fdbd32dd42a824cfccc552c03
+SHA512: c86e672c9411648ed83ad1abda6a0771aebe0c56c953cd93558f47cbd9343c6c179599191135d1cc79a384b39f074c24d06ff360f03f98b215a59a8ba74ecca8
+Filename: download/linux-build/0.5.9/linux-image-4.4.77-rockchip-ayufan-104_0.5.9_arm64.deb
+Size: 10432026
+
+Package: linux-image-4.4.77-rockchip-ayufan-104-dbg
+Source: linux-4.4.77-rockchip-ayufan-104
+Version: 0.5.9
+Architecture: arm64
+Maintainer: Anonymous <root@494431924f07>
+Installed-Size: 538602
+Provides: linux-debug, linux-debug-4.4.77-rockchip-ayufan-104
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.77-rockchip-ayufan-104
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: 9a8cdd061faaabed0e830b34af2ced72
+SHA1: 40dcd8f4c87b9f38f056d0f79e8777d1b5416f05
+SHA256: 4a893937f7b7697bc8e4963ab1fab6a88b82f1fb40c0f941b040d8e753b00d4e
+SHA512: fb32ea3ea949bdf474ba4699e2654f92cd8aba92dfd545a2acf7296304f71a61bcbc928985119a99668652b35fc1e50b42f6f16031742bba32307fb62374186a
+Filename: download/linux-build/0.5.9/linux-image-4.4.77-rockchip-ayufan-104-dbg_0.5.9_arm64.deb
+Size: 88818446
+
+Package: linux-image-4.4.77-rockchip-ayufan-118
+Source: linux-4.4.77-rockchip-ayufan-118
+Version: 0.5.10
+Architecture: arm64
+Maintainer: Anonymous <root@e4248ef129ba>
+Installed-Size: 51281
+Suggests: linux-firmware-image-4.4.77-rockchip-ayufan-118
+Provides: linux-image, linux-image-2.6, linux-modules-4.4.77-rockchip-ayufan-118
+Section: kernel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel, version 4.4.77-rockchip-ayufan-118
+ This package contains the Linux kernel, modules and corresponding other
+ files, version: 4.4.77-rockchip-ayufan-118.
+MD5sum: b7e159777014bf00db3887ea0b3d7370
+SHA1: ce6464b24493fc81f9fb76ec86dd4a50481f83ce
+SHA256: 53d48a9872889d801e3aeeafa5164645f84d79be885a7f95f1ac7061aee4ae1e
+SHA512: 339f832464d2cefbb5d16ce27b8c40408fb8a5f9cf995f882c6831797ec1492dff96fa622fa4d8967a1e4de5795abd607533d6bbbda6b61e9a150fa395d0794b
+Filename: download/linux-build/0.5.10/linux-image-4.4.77-rockchip-ayufan-118_0.5.10_arm64.deb
+Size: 10456572
+
+Package: linux-image-4.4.77-rockchip-ayufan-118-dbg
+Source: linux-4.4.77-rockchip-ayufan-118
+Version: 0.5.10
+Architecture: arm64
+Maintainer: Anonymous <root@e4248ef129ba>
+Installed-Size: 540696
+Provides: linux-debug, linux-debug-4.4.77-rockchip-ayufan-118
+Section: debug
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux kernel debugging symbols for 4.4.77-rockchip-ayufan-118
+ This package will come in handy if you need to debug the kernel. It provides
+ all the necessary debug symbols for the kernel and its modules.
+MD5sum: d4b43253c28e9110f1bfaf0886f45067
+SHA1: 0261faad1872945897cc4d2a3a86001fe817df34
+SHA256: 5947acee725e60c1fc78e4c7c12c1268b35307b33ed0b26b2772c79cc0ef1f04
+SHA512: 5fdf88524de5ccc6449eff59f67dd69ca95e1a67a4ed26144ff35ec4b0fee492d9b2709a433bd71abe7ff3b417a86d546f036735524413c4ab08887a1b234b28
+Filename: download/linux-build/0.5.10/linux-image-4.4.77-rockchip-ayufan-118-dbg_0.5.10_arm64.deb
+Size: 89241314
+
+Package: linux-libc-dev
+Source: linux-4.4.70-ayufan-28
+Version: 0.2.0
+Architecture: arm64
+Maintainer: Anonymous <root@b611ec84c63f>
+Installed-Size: 4001
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: 0d55d5008e15382fef32395aeae69175
+SHA1: 965b12a20e425f329a6b27f04bd648d9b2966738
+SHA256: 77aa493f4ed65609587363cdbe1808e66966da02ecf106f260d610a0e816993b
+SHA512: f5e1e8e1b3d19bd6498bf02e31a5a5ce13c5279cb798673aebda98054a78352c9f047f8bea62c57fbbb8d7a18f990f1a2af28183e7557d3237e99c3fa7a9a8bf
+Filename: download/linux-build/0.2.0/linux-libc-dev_0.2.0_arm64.deb
+Size: 795988
+
+Package: linux-libc-dev
+Source: linux-4.4.70-ayufan-29
+Version: 0.2.1
+Architecture: arm64
+Maintainer: Anonymous <root@8774761d3ae4>
+Installed-Size: 4001
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: 28bc891d0aa7ea3e745c6082e43e950a
+SHA1: f9762e6ac4bb67baf1b236e163efdec1c4cecc38
+SHA256: 431a5ecf131317655fea3c9c7efd6eb08b3572beff824870b01f9b77f86b6dbe
+SHA512: 9a895c705bea3f22764aecab92928b2c8a00d24d875b7fed6a1b3437b9294ac88a2b0b46d11a1324599f8f5b06fc721bfecfdd63859ac361c0eb1bc95cb91bce
+Filename: download/linux-build/0.2.1/linux-libc-dev_0.2.1_arm64.deb
+Size: 796042
+
+Package: linux-libc-dev
+Source: linux-4.4.70-rockchip-ayufan-54
+Version: 0.3.2
+Architecture: arm64
+Maintainer: Anonymous <root@eb0a4070ce44>
+Installed-Size: 4001
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: bd5ed9392d8bd99fa15765c7a1435a9c
+SHA1: 51494bf5a984181b9a6918a567766f4c1348a7fb
+SHA256: 25ae952ab1b9d7fece4f5b0c8cf3e8fa06d0fdc00b250b6dcc676cee98f82f52
+SHA512: 7b27dcbb5eee85e87c2bf659cac1335bb654a4575377ba3dc9822f79750195505057e34adb776bc3ac5b15c6fa9126e2007531f77089dafb7ce23a9c3a4aa211
+Filename: download/linux-build/0.3.2/linux-libc-dev_0.3.2_arm64.deb
+Size: 795340
+
+Package: linux-libc-dev
+Source: linux-4.4.70-rockchip-ayufan-55
+Version: 0.3.3
+Architecture: arm64
+Maintainer: Anonymous <root@6dccca718e3e>
+Installed-Size: 4001
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: 4e71d84301910694dcfa707c5ba1434e
+SHA1: e31269787634c24522bc34a27bf4be58c2382e5f
+SHA256: 8277ba55879dd20cc1b248300d450c95e2e2b7708cb501355e080c243607f78e
+SHA512: 8176397942e1210c4676d38a45c3e4aaed4c5076291ebc941b5751e03f6762c7b1c6c25e93bf6b76a4aea34b0c3da61a3774e890b1c1b452c399d6dee6a8bc8e
+Filename: download/linux-build/0.3.3/linux-libc-dev_0.3.3_arm64.deb
+Size: 795294
+
+Package: linux-libc-dev
+Source: linux-4.4.70-rockchip-ayufan-57
+Version: 0.3.4
+Architecture: arm64
+Maintainer: Anonymous <root@fc86bce98cec>
+Installed-Size: 4001
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: 33f21d9398be3451fc568dfaee72805a
+SHA1: 0b0a537b317b364bdf1a864a0c54ccd3e1257994
+SHA256: 4401f2b868df4330385f7d6d5dd1d1cb4bfca5b70b5e85a5b314b4c5cfd1ddb2
+SHA512: 65aab933a8c4a59c7571fae346558c637bafe3e4997991913183bcc56021ea8905f0c94c40740c606a14dd182dc2324b1c285a0eb3816df789108f6c8351647a
+Filename: download/linux-build/0.3.4/linux-libc-dev_0.3.4_arm64.deb
+Size: 795406
+
+Package: linux-libc-dev
+Source: linux-4.4.70-rockchip-ayufan-62
+Version: 0.3.7
+Architecture: arm64
+Maintainer: Anonymous <root@645a5c5f7ae4>
+Installed-Size: 4001
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: cb47d2cf262353182e262448bcefb3b4
+SHA1: 59f9912f4b7c0069b6bf297f234fe5119e39ee70
+SHA256: 604eea6064d05519b52b5529c06eea8e1498582086f2dcceeeb3207dfce0e9f7
+SHA512: 078238dc5273b38e9b362461e8bdbe3efeb12d66e7909b9fc51c2a986072f9fc3e19665d82e9f63091ff061793237245219bbd0f5b135fa489babab607a4941e
+Filename: download/linux-build/0.3.7/linux-libc-dev_0.3.7_arm64.deb
+Size: 795282
+
+Package: linux-libc-dev
+Source: linux-4.4.71-rockchip-ayufan-77
+Version: 0.4.12
+Architecture: arm64
+Maintainer: Anonymous <root@af7866c094b8>
+Installed-Size: 4001
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: 5324ef47344b8c9cd78e2960c03f5fd3
+SHA1: cafee1024853be48c474bdad5eb3f2f2b1fbd38d
+SHA256: f8513fdfd031f6607c7be87bbc251f81006b8d6177238994a5a739b90f49a541
+SHA512: 50ede2e9ae287b772d1777f4e01e92fbe0c7b6db3dab0fba7369ec02e80db7a8a2634be199fe863341577c2cb867557117a9dcf9c3732d4b6161d00180ed563e
+Filename: download/linux-build/0.4.12/linux-libc-dev_0.4.12_arm64.deb
+Size: 795360
+
+Package: linux-libc-dev
+Source: linux-4.13.0-rc2-rockchip-ayufan-83-g182ac7a
+Version: 0.4.16
+Architecture: arm64
+Maintainer: Anonymous <root@696207e32f2d>
+Installed-Size: 4733
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: 89a85c445c0986986210bb35ebf480a7
+SHA1: b7da73a97ec83c32af67417262f7dcb5b9ed383c
+SHA256: bdf83abd631219c8b41e150f3564f2ea0ad4750eb2b1687598f5b347fd515f12
+SHA512: 00a5b9fdaac252c8e6a52080ed22876ab7fbce717bb65ec9580041afae03a0cdd8f9cd9904a3e7e8719feb29d757d72f792803edddbe7379f2029bed24c15955
+Filename: download/linux-build/0.4.16/linux-libc-dev_0.4.16_arm64.deb
+Size: 924462
+
+Package: linux-libc-dev
+Source: linux-4.13.0-rc2-rockchip-ayufan-85-g182ac7a
+Version: 0.4.17
+Architecture: arm64
+Maintainer: Anonymous <root@c6610ffc78ec>
+Installed-Size: 4733
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: 632acb86ce601151b21436869f378974
+SHA1: 50addd955fb9014d18e190dcd80767361f199fda
+SHA256: d47d0b4dbde386f8962bda52ff3bcf53447c03a6e3aa129a0f0e51d3c7b7b78d
+SHA512: 40a1e148648ca7d5f2d4a0716a21a18b3df77293a153607530d972298228f22e2ed06a3a2c51232d33f93f25e3e98488f41573be353ac5994537e08ede4bf910
+Filename: download/linux-build/0.4.17/linux-libc-dev_0.4.17_arm64.deb
+Size: 924508
+
+Package: linux-libc-dev
+Source: linux-4.4.70-rockchip-ayufan-66
+Version: 0.4.3
+Architecture: arm64
+Maintainer: Anonymous <root@d75ef99673cb>
+Installed-Size: 4001
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: 569d96c9bce41ef4959932ce47805c7e
+SHA1: 1e3efcd386328f401f5e0fdf3783c74ae794e49c
+SHA256: c9004225c82811714d000b5a4cde6c27e5deced31a2e54a9fd94751699992ab7
+SHA512: dc4d22fcff47fbc97d094cda42fcc69b00b9fca3ebc46d3e79761ec12df6f71f50894a8bae4a915b370a682f236c33bd332f1bd2b327d8cdf8e450fae4060103
+Filename: download/linux-build/0.4.3/linux-libc-dev_0.4.3_arm64.deb
+Size: 795338
+
+Package: linux-libc-dev
+Source: linux-4.13.0-rockchip-ayufan-118-gd3263fd
+Version: 0.5.10
+Architecture: arm64
+Maintainer: Anonymous <root@e4248ef129ba>
+Installed-Size: 4794
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: 68d2caabd591a9125a115c20373140fd
+SHA1: c140d7e2cc6fa0ae515073f3c8efaa2f4ce281db
+SHA256: c5220f5c28f0be7341c7eb00d1abeae584e36db8df6c0af0b71ea1f7ed854ff7
+SHA512: e42b6b32c36b16f25d5b6ebb80faaf1c50735c605de1889e05ff2f9f84ac882bf1ccd64c0023495a1a3a7c3e0bb7c62570828feb251a2a4f4605525f0aef50be
+Filename: download/linux-build/0.5.10/linux-libc-dev_0.5.10_arm64.deb
+Size: 936456
+
+Package: linux-libc-dev
+Source: linux-4.13.0-rc1-rockchip-ayufan-102-g6104f84
+Version: 0.5.8
+Architecture: arm64
+Maintainer: Anonymous <root@2c37f7039ae3>
+Installed-Size: 4733
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: dd7e041391f7a88b7b157b33282e3e75
+SHA1: 94a3afdb7e7e4b315aae670977d6b8e36f0b1051
+SHA256: 6f50437c00b15f282c09880a07471272ca9feb31b650cfed4aa18726dbbeb9fd
+SHA512: a4401e86495acce00898e31e150101a89eaad39e257d18d1678ee492b6a9a401588d7f531b34e6181ec7bb05d6c474bc131141a550db6063c6b6b7d0bdc1d9e0
+Filename: download/linux-build/0.5.8/linux-libc-dev_0.5.8_arm64.deb
+Size: 924502
+
+Package: linux-libc-dev
+Source: linux-4.13.0-rc1-rockchip-ayufan-104-g6104f84
+Version: 0.5.9
+Architecture: arm64
+Maintainer: Anonymous <root@494431924f07>
+Installed-Size: 4733
+Provides: linux-kernel-headers
+Section: devel
+Priority: optional
+Homepage: http://www.kernel.org/
+Description: Linux support headers for userspace development
+ This package provides userspaces headers from the Linux kernel.  These headers
+ are used by the installed headers for GNU glibc and other system libraries.
+MD5sum: bc5a221b97d9a648456756d8d4613bd6
+SHA1: f3948468bb09b2b9d05e4fe7777a64c2634f6ec3
+SHA256: 560748b659adf34aedb3b33ed8d33ebb8ba766bf17896f17f57a0bb217e7e89c
+SHA512: 27aaa45598216a850a7062ad986ca06e1db0166fa3278c718d35906b43c107da9a2b797c021d7dd7cacd5516cc4375dfa31a09d48cd7c4f9efa234b0c9b974af
+Filename: download/linux-build/0.5.9/linux-libc-dev_0.5.9_arm64.deb
+Size: 924522
+
+Package: linux-rock64
+Version: 0.3.2
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.3.2), linux-image-4.4.70-rockchip-ayufan-54 (= 0.3.2), linux-headers-4.4.70-rockchip-ayufan-54 (= 0.3.2)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: 16cb65c4149b6289c33b8c023db4c98c
+SHA1: f3c4c8e945dc532ab3d54f909d0785dc1dceee00
+SHA256: 9cab4a80f4bbd654c35784145b6173ae960e7ba0be73004bd7d6d0036a9ea565
+SHA512: 5f0ccebe468adf86663163958e990ff3e7164a3ec7a13671c3745433fad07558d1c53191b3c7ce272e92428fd93209fe0af9d77fd409ccefbaf9e99ae98c3070
+Filename: download/linux-build/0.3.2/linux-rock64-0.3.2_arm64.deb
+Size: 1106
+
+Package: linux-rock64
+Version: 0.3.3
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.3.3), linux-image-4.4.70-rockchip-ayufan-55 (= 0.3.3), linux-headers-4.4.70-rockchip-ayufan-55 (= 0.3.3)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: 7aa0c5f9fafea6a17820a9b09656f3e1
+SHA1: a200a5932901291ff0cb07e92e82412c54b13746
+SHA256: 9c721c378a34e87101c262d17e42a597806e3139da58c628d63bb6a8d7e8696a
+SHA512: bfc9c19ae8119ab6589cfa5c60e06b49b9c93651087b8f7999db89a53b7e65ee764306a702097a21f4b3c0596867e4517feccc4e1fc8bafe84a57cc13c223aad
+Filename: download/linux-build/0.3.3/linux-rock64-0.3.3_arm64.deb
+Size: 1102
+
+Package: linux-rock64
+Version: 0.3.4
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.3.4), linux-image-4.4.70-rockchip-ayufan-57 (= 0.3.4), linux-headers-4.4.70-rockchip-ayufan-57 (= 0.3.4)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: 63deeceeb52939d98b71b3543203bd3f
+SHA1: fef2cc285dccd8f98bc997cf473976ce4e6f0f4d
+SHA256: 98caca6f0084e0a6a0c2e442b2d3db391c73fa7890fb75130cccaa403c28d336
+SHA512: 9d170d43bbc90c9d6db1d019e7823ea764a6bc1d660897903670061b07c62ecae96f8016b8427e43582a30d63bab8ca8ecf611f813eac263136b92271bf4489a
+Filename: download/linux-build/0.3.4/linux-rock64-0.3.4_arm64.deb
+Size: 1098
+
+Package: linux-rock64
+Version: 0.3.7
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.3.7), linux-image-4.4.70-rockchip-ayufan-62 (= 0.3.7), linux-headers-4.4.70-rockchip-ayufan-62 (= 0.3.7)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: a3db8561401f7ada653f8985da00c124
+SHA1: 3ff15d9243e2b0c3edc9a6ad13890f67c9fb88c3
+SHA256: 49d2abf506140697a551108dd8d70a30086d66507cb98a9d7d6b47a6510a71c4
+SHA512: 218e39b4560b11a45a17fc5160686e9285aa897fdf89414b2ba4c32fc3082443a96e4d788ec0c9d75802333a9150ebb3e7e69134ffd70b5e2eaf2293d37d4bd6
+Filename: download/linux-build/0.3.7/linux-rock64-0.3.7_arm64.deb
+Size: 1104
+
+Package: linux-rock64
+Version: 0.4.12
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.4.12), linux-image-4.4.71-rockchip-ayufan-77 (= 0.4.12), linux-headers-4.4.71-rockchip-ayufan-77 (= 0.4.12)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: 6c0c5a9d33c213db51640f0d94aa10f1
+SHA1: 3c3bafd8e2dd93921ec47fb996022e71c6be1946
+SHA256: 55237f38698146a0a065ecd90c37771ae5bfd2da2ca755b277afa270024ad729
+SHA512: 96f783ef4d07ba2af386b333d3e522ec420040c52cec5da52f5ec649788ffa00aecb8126eb7be1af05c42f33cbfc99c8516b60ad7db99c45c3f51be97e34e8b0
+Filename: download/linux-build/0.4.12/linux-rock64-0.4.12_arm64.deb
+Size: 1106
+
+Package: linux-rock64
+Version: 0.4.16
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.4.16), linux-image-4.4.70-rockchip-ayufan-83 (= 0.4.16), linux-headers-4.4.70-rockchip-ayufan-83 (= 0.4.16)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: 2aeb08d7628b1e9c3c362dc029fe785a
+SHA1: 9a870afb03af2726107fd33b076489949ca58633
+SHA256: 263f605435e171343738f9d086913b6f2d3c7ee99ee182c968cebe6b470029a8
+SHA512: e69607f8940e9ce2eedc68a080cc81a3311ac23a16da522e5f9906f14a9533d7b3d19c9d88b4277984ef116fd26abcd6a44a4de319387c4accec19253844fc06
+Filename: download/linux-build/0.4.16/linux-rock64-0.4.16_arm64.deb
+Size: 1106
+
+Package: linux-rock64
+Version: 0.4.17
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.4.17), linux-image-4.4.70-rockchip-ayufan-85 (= 0.4.17), linux-headers-4.4.70-rockchip-ayufan-85 (= 0.4.17)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: af9ead4fc36d61e8c3c5c7c72535efbf
+SHA1: 39b6e89d10277d1d03aa051004639809d7578428
+SHA256: 0b521488023f99155abac31bfabc86a26ded88ddffb50e9f816aea6e4bf1eba9
+SHA512: acce8d642518d9c3ce3c92743d552cca34240e49dfd421d4900ce96cbfb0cb7fb5601e4896c3d8a348cafc66e8eeadfcf222976e7f118bd0f1726b33e45880f1
+Filename: download/linux-build/0.4.17/linux-rock64-0.4.17_arm64.deb
+Size: 1102
+
+Package: linux-rock64
+Version: 0.4.3
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.4.3), linux-image-4.4.70-rockchip-ayufan-66 (= 0.4.3), linux-headers-4.4.70-rockchip-ayufan-66 (= 0.4.3)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: 7899ed61a480302bcfeb5ee9c236907d
+SHA1: e41b3602d4975619fd6b010171b285c95798970b
+SHA256: 1d3715f7901a5cd797b1d8259b47789f2b9e0b3dffaa1ab85943fe8cd1530d79
+SHA512: 525f38c799c10c1c0da2ff54f753b3a0031c704be0528e0a22e00ab1b30f93f9dc7df67bc2a26304fbbe5d5520fddeaf826e7225fd0b9adc25b4f3aae81978b2
+Filename: download/linux-build/0.4.3/linux-rock64-0.4.3_arm64.deb
+Size: 1104
+
+Package: linux-rock64
+Version: 0.5.10
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.5.10), linux-image-4.4.77-rockchip-ayufan-118 (= 0.5.10), linux-headers-4.4.77-rockchip-ayufan-118 (= 0.5.10)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: 3049dd3ced006bdea7d1e970204ee57f
+SHA1: 26708f6d6766d76cbd568b9c9f786e4d4cc91b6f
+SHA256: 94bd65fa5baebf85595a86e9c6fb49b084e0843769ff9fb3df68831c5ee502ac
+SHA512: cbf6a2e5c62a74569e36803e4acf4863da66ca8bf432fc3db53522dc9d34b4f50d61906b636db9ff3ea0782fe97ba9e0bafbf309dd8d643f21f11f620dbaa6ae
+Filename: download/linux-build/0.5.10/linux-rock64-0.5.10_arm64.deb
+Size: 1106
+
+Package: linux-rock64
+Version: 0.5.8
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.5.8), linux-image-4.4.77-rockchip-ayufan-102 (= 0.5.8), linux-headers-4.4.77-rockchip-ayufan-102 (= 0.5.8)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: 039eaaf7bba48366082309e3560dc88e
+SHA1: 3ca53e308abe0591882b259cad14067afdb5c055
+SHA256: dcea5147e7641c73953d8ed5788995bc3bb790e190ac28a1e35c2d62b1659e4e
+SHA512: e2285904282e00bef2704ac862c228bae7986c1c63db7b13845b3f93534445400abc2106351196d5322163f09da27b3b5cb0cbab5c85fc56553da4286ce310fd
+Filename: download/linux-build/0.5.8/linux-rock64-0.5.8_arm64.deb
+Size: 1104
+
+Package: linux-rock64
+Version: 0.5.9
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: arm64
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 0
+Depends: linux-rock64-package (= 0.5.9), linux-image-4.4.77-rockchip-ayufan-104 (= 0.5.9), linux-headers-4.4.77-rockchip-ayufan-104 (= 0.5.9)
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux virtual package: depends on kernel and compatibility package
+MD5sum: aeb7a00a1b3a4043c11faae8fc0e0252
+SHA1: a8e708fe3fa62c0a9e389e23b7b9a30c037bfdf9
+SHA256: d3c2118c082f1020c824857469f5288a118a2212469b7518d54e1289822e8a03
+SHA512: 7415dbdeb72fe6a4b82fc5877df585709bcd8fe6dc49ae154cca6c3d75058292b1be6787c9e3b2b3b7040c8e8e2de5868687f0325c1a96d6900d318d02ca98af
+Filename: download/linux-build/0.5.9/linux-rock64-0.5.9_arm64.deb
+Size: 1100
+
+Package: linux-rock64-package
+Version: 0.2.0
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1258
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+MD5sum: d6d8377b9bca4b3d4b728ca72dcd6df1
+SHA1: 0a83e0a4bede3ae2e020ab7283e8dac1a1a22604
+SHA256: 51119af3bc65dc86fbe378dc702b7a76561f8a7e4fbd8b92deefe79a8488d1db
+SHA512: 3af5df72819f84b99fbaad4ae1267e94c58f6922efa41ffeb329a6d981d33737097ecab186a9bbc7a608f82c5ac0a4219b691ee0f7c2d5f162581daed0868841
+Filename: download/linux-build/0.2.0/linux-rock64-package-0.2.0.deb
+Size: 936138
+
+Package: linux-rock64-package
+Version: 0.2.1
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1258
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+MD5sum: f22ed4a414aacda2860380d9f79abcb8
+SHA1: ff4e2ad3af2a05cdbd8c477ce1b419cad88de4ef
+SHA256: a5a1ae65dd4089289cfea5e7e61d392eb3d5015554704b59cfd0799169629aeb
+SHA512: 3eeb2b8bc6056e382e1c250bfff85aaa6b87103fd02b6d8f085d2941852618c99fb13604d90036ae2507b4266d6059686cf9b05b1d230b11333092847804addc
+Filename: download/linux-build/0.2.1/linux-rock64-package-0.2.1.deb
+Size: 936180
+
+Package: linux-rock64-package
+Version: 0.3.2
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1573
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: a82fb230111c1cf4240b5354673c5db0
+SHA1: b1058b4e223aefc3567470be26d145bda6b93152
+SHA256: 098cbd9dc7455ab100e56afa200daae6475cd75a36e678acf93ded6bfdb20949
+SHA512: 08a0c38ba896efe58db2ec5901892829bd1891b39478aec8d595a9437cb49272613a6df75a57690563ca4500b69f9f998e236dda3865aa79bf244586bf0d38fa
+Filename: download/linux-build/0.3.2/linux-rock64-package-0.3.2_all.deb
+Size: 1295228
+
+Package: linux-rock64-package
+Version: 0.3.3
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1573
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: 803bfb6699e37732ebcd55285e5ca5aa
+SHA1: 862de42dbf569155c7262c97ad8cb61c61f05179
+SHA256: 6806ee3a51fa832596a830927ce039958a64af1e64b64d1de6326ae89b886b5b
+SHA512: 9cc458de5a9cacd675ccd00d048acfcfe1cbec3360abf13a184e79fe72aa7014c3451b41dd11af63c41e30d6e2bd0f7393d77b0e5672b9453c3c914ed9b2ac72
+Filename: download/linux-build/0.3.3/linux-rock64-package-0.3.3_all.deb
+Size: 1295262
+
+Package: linux-rock64-package
+Version: 0.3.4
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1573
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: 481e164e18e61952430b35a7e22e02c4
+SHA1: f64fdcae5eb4362bd3b90638c3be466ba13360a5
+SHA256: 38d22e533c646b7e96b407f2b016bc62e465b5144fa87849179aa77b50b74d2f
+SHA512: 94b012a9cfc7ecc6327d70faae6c3399f77d78b8ad8a910a624fcb7a7a513988a8382de8867e6e62d4219dba60eaaae5481cbe456330eff787a7a3ecf1ccc3f0
+Filename: download/linux-build/0.3.4/linux-rock64-package-0.3.4_all.deb
+Size: 1295316
+
+Package: linux-rock64-package
+Version: 0.3.7
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1573
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: 077ac992679e0fc416ba1316d14ad3a8
+SHA1: 17bd989e464ad3015b40b26c32fa5ba6db923874
+SHA256: 08a5acf64cc90c265dc34f4356e0a58c73a87e248399b413fb7e89661eec2160
+SHA512: 340b5d40627b4167a320314b546013ef6ff7fa43e4f2f58ac931284b532f27c696cfa1d2ff53f3cfeb011737890a60cc8767469ef71fc7afc16ce6bf089eac16
+Filename: download/linux-build/0.3.7/linux-rock64-package-0.3.7_all.deb
+Size: 1295006
+
+Package: linux-rock64-package
+Version: 0.4.12
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1592
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: 543d52f0354bb7aa8d2ae6def52005fe
+SHA1: e00ebf45b1fe11e077d4d71ac2a5abfbd58b58c6
+SHA256: 45e2e22eb761615e1d9180d1c1b4536b601356cac2e979ecbb99d498e4601372
+SHA512: d1d1a800482453d59932b039f242a249a6456132fcdb04e9a8e0a3efc594ed8baf9f30d37cdbe8ad36b6681a964addbfa54e857b65654a10958ecddbab24cf2b
+Filename: download/linux-build/0.4.12/linux-rock64-package-0.4.12_all.deb
+Size: 1303438
+
+Package: linux-rock64-package
+Version: 0.4.16
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1592
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: 55411c37e619ea3e9132affa750b4a17
+SHA1: 31631736068268209e3d03422bb17809d52fa8d4
+SHA256: 2ad1f73ec472f808e6aed829f9cd4f48c3a6831d6cd56e6d87219a736aa01ab1
+SHA512: 2583f218d9dbc4173c5feb8d88ba693935ed4c5a9014956854150382adb9f2af5bf9a70051db21f6fd47c2081a0d36088786c160da0025be8889d1a5d5fd3be4
+Filename: download/linux-build/0.4.16/linux-rock64-package-0.4.16_all.deb
+Size: 1303304
+
+Package: linux-rock64-package
+Version: 0.4.17
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1594
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: 95672bf0cffdf17e709af92716ef094d
+SHA1: 7e13b2f973772725f6b413588f70d65b0b7b8726
+SHA256: 92b7970766a8130bcff32e1e454dba5a9264926dc26057efd1efb9bf0752bb5a
+SHA512: 41464ad256dbb072692f76127ea0f54e8e603cf29ec96aabe401a1b0d2a1e63b2c188c9c9d0c7592540a46fa971ad70b9f563bdee8a8bb08a8480ed91dc1af8c
+Filename: download/linux-build/0.4.17/linux-rock64-package-0.4.17_all.deb
+Size: 1304282
+
+Package: linux-rock64-package
+Version: 0.4.3
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1573
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: 4472920e1b4fe651e210e896b6946af2
+SHA1: 4dd1eaea9368654f63da655ecdfb3c2f78dd652f
+SHA256: 47b74c20fc59672c4f19a1171c6d81633f8a63691c24b6b6c43548255bd1c902
+SHA512: 5ad9fdb1f9c95fc14f1617cd454a9b0d36ca20ae6ffbfa66bbda9c95b2a0b8b4f3429c272573f0102c2e5cd7a7adc0b9430b2922d550075989ee886f5a7d4efb
+Filename: download/linux-build/0.4.3/linux-rock64-package-0.4.3_all.deb
+Size: 1295622
+
+Package: linux-rock64-package
+Version: 0.5.10
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1596
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: e50b6321dd62cfced3f4f84f78923d9d
+SHA1: 75e091598939123dcc675af638804ffc89339b85
+SHA256: ac3f3fd0b8ca9c7d0222ffaf9aa76aeced7c9810b531bffb529873af88ccdb9a
+SHA512: e2e99f0fe244ac004f3f5476807454012561ded2a6c87c31b7de8fa81507d7b693fdfdbbf7f472674ed46c3eeb96abd35560a73dd76b7b7203f1764b3f2e4327
+Filename: download/linux-build/0.5.10/linux-rock64-package-0.5.10_all.deb
+Size: 1304620
+
+Package: linux-rock64-package
+Version: 0.5.8
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1595
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: 2b2a5d88f376075f8652be63e2a1331c
+SHA1: 359ed5b261c2ec571da2a42c28a37581ae29ae80
+SHA256: e57a74deeabfbf46f7bf66ae33805043ca9ced32f9a1ed48e45c9ec51307a9c3
+SHA512: 63dfd1f336b66edac407bc68f8f954488431102dda3736c13fc04157b5843b93818ca459c97c4109c67a42629909edb97b9dad1aa7048cf5fdd2dd93b59ce011
+Filename: download/linux-build/0.5.8/linux-rock64-package-0.5.8_all.deb
+Size: 1304402
+
+Package: linux-rock64-package
+Version: 0.5.9
+License: MIT
+Vendor: Kamil Trzciński
+Architecture: all
+Maintainer: Kamil Trzciński <ayufan@ayufan.eu>
+Installed-Size: 1595
+Depends: figlet, cron, gdisk, parted
+Section: admin
+Priority: optional
+Homepage: https://gitlab.com/ayufan-rock64/linux-build
+Description: Rock64 Linux support package
+Multi-Arch: foreign
+MD5sum: 3e30bc58f4d5b15d6053d837e4494393
+SHA1: 6531acc0d39c433a3282781e69a65810b3e926ec
+SHA256: af2bc4dd1114c1ec1aff6d1a068d46f1002b1d8e0e637be2441aa22ccd93db34
+SHA512: 64d91324d08ad0b9e319f1c2b1b5c129d7043806a3d7a29b7ab4ceb2faec27a9f47e48d0de491777e4d7397675fc78328d8bf2bc3d36dda1a8aaeded6aa7a582
+Filename: download/linux-build/0.5.9/linux-rock64-package-0.5.9_all.deb
+Size: 1304574
+
+Package: openmediavault-plexmediaserver
+Version: 3.8.1
+Architecture: all
+Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
+Installed-Size: 174
+Depends: openmediavault (>= 3.0.21), plexmediaserver | plexmediaserver-installer, avahi-utils, avahi-daemon, git-core, python
+Section: net
+Priority: optional
+Homepage: http://omv-extras.org/
+Description: OpenMediaVault Plex Media Server plugin
+ Stream media everywhere(tm)
+ .
+ Plex Media Server simplifies your life by organizing all of your
+ personal media, making it beautiful and streaming it to all of
+ your devices.
+Plugin-Section: multimedia
+MD5sum: e945de8892515476ec1bcdf89c0aafdc
+SHA1: ce9136c0a694f7a2d750e69aebe20c818a4cc066
+SHA256: 9043e582582755f338ecd7ce75ae61ca54fcd9216603e1d0798c2fe7c6c5719b
+SHA512: ab9b393e28e01b2e769b5321a8b7f191fc7d292b1213ccc3840a4278a840ea7de6905faefdc2f758f6e2f123aa4d92dd6961410ade9d737f5c8e71b61ff41d7d
+Filename: download/openmediavault-plexmediaserver/v3.8.1/openmediavault-plexmediaserver_3.8.1_all.deb
+Size: 20880
+
+Package: plexmediaserver-installer
+Version: 1.5.3.3580-4b377d295-1~jessie
+Architecture: armhf
+Maintainer: OpenMediaVault Plugin Developers <plugins@omv-extras.org>
+Installed-Size: 23
+Depends: curl
+Section: net
+Priority: optional
+Multi-Arch: foreign
+Description: Plex Media Server for Linux
+ Stream media everywhere(tm)
+ .
+ Plex Media Server simplifies your life by organizing all of your
+ personal media, making it beautiful and streaming it to all of
+ your devices.
+Plugin-Section: multimedia
+MD5sum: 6463cb80b2e7dee5a25427fa59cc299c
+SHA1: 369e302d63286c0afae5769af38f475dd570f63e
+SHA256: ca98597e94078da52e664aea25751e8bfe2364fac9092cb62f536e740ac503b8
+SHA512: 6e1eb8cbed676da4a7dad4ce02f5719cd8432cf5f016763fb77409135f74b8f9b730b3f4d8bd8259733ab4b6c95fc8283a3b752967e54b1013bbff1fad6a2845
+Filename: download/plexmediaserver-installer/1.5.3.3580/plexmediaserver-installer_1.5.3.3580-4b377d295-1.jessie_armhf.deb
+Size: 4000
+
+Package: plexmediaserver-installer
+Version: 1.8.4.4249-3497d6779-3
+Depends: libc6 (>= 2.19), curl
+Replaces: plexmediaserver (<< 0.9.16.4.1911-ee6e505), plexmediaserver-installer-neonless (<< 1.0.0.2261-a17e99e) 
+Breaks: plexmediaserver (<< 0.9.16.4.1911-ee6e505), plexmediaserver-installer-neonless (<< 1.0.0.2261-a17e99e)
+Architecture: armhf
+Multi-Arch: foreign
+Maintainer: Jan Friedrich (uglymagoo) <jft@dev2day.de>
+Section: video
+Priority: extra
+Homepage: http://www.plex.tv
+Description: Plex Media Server for Linux
+  Stream media everywhere(tm)
+MD5sum: e65600c97f826432ade5ba7faf3c6755
+SHA1: b08855ebc3c2bc99e5b4c000edd0d39147af6941
+SHA256: 21a26af9820b0d7a90af97d2efb763a15418a2bf6249d50ac3b3eb7cd3b9113a
+SHA512: 3f29101b86f8556c9e029d6398937f24d25a51ac791abaf2ebdf576a18a7590a6cf5173c1cc1c963246f54b66ee3f04fa4aa67206656972d5284a9e18eb793fb
+Filename: download/plexmediaserver-installer/1.8.4.4249-3497d6779-3/plexmediaserver-installer_1.8.4.4249-3497d6779-3_armhf.deb
+Size: 255398
+
+Package: plexmediaserver-installer
+Version: 1.9.1.4272-b207937f1-2
+Depends: libc6 (>= 2.19), curl
+Replaces: plexmediaserver (<< 0.9.16.4.1911-ee6e505), plexmediaserver-installer-neonless (<< 1.0.0.2261-a17e99e) 
+Breaks: plexmediaserver (<< 0.9.16.4.1911-ee6e505), plexmediaserver-installer-neonless (<< 1.0.0.2261-a17e99e)
+Architecture: armhf
+Multi-Arch: foreign
+Maintainer: Jan Friedrich (uglymagoo) <jft@dev2day.de>
+Section: video
+Priority: extra
+Homepage: http://www.plex.tv
+Description: Plex Media Server for Linux
+  Stream media everywhere(tm)
+MD5sum: ca4f1d066aedaf4c821ca5031ee9bbde
+SHA1: 37d0ac323a25c9fb839b4f07673acbea92085b0f
+SHA256: ff1f7a9adc5323bc78d6f8fa7371b3ef9f7b84549fc726bc5a376dd6df80b3c1
+SHA512: 02a24775fbcf755ca0d6c3e281cfa278d32c776bafa10df611c62bd58839f5c332347b7d012200103e8cbd123d598bf60ee49df4194ed4e6ea04e18a629063e6
+Filename: download/plexmediaserver-installer/1.9.1.4272-b207937f1-2/plexmediaserver-installer_1.9.1.4272-b207937f1-2_armhf.deb
+Size: 2649636
+

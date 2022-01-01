@@ -1,0 +1,7 @@
+/etc/flash-kernel/bootscript/bootscr.uboot-generic
+/etc/flash-kernel/bootscript/bootscr.xgene-mustang
+/etc/flash-kernel/db
+/etc/flash-kernel/dtbs/README.dtbs
+/etc/initramfs/post-update.d/flash-kernel
+/etc/kernel/postinst.d/zz-flash-kernel
+/etc/kernel/postrm.d/zz-flash-kernel

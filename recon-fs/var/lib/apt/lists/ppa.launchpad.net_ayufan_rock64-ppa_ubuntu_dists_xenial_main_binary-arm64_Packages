@@ -1,0 +1,662 @@
+Package: xdmx
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 1778
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: arm64
+Version: 2:1.18.4-1ayufan2
+Depends: xserver-common (>= 2:1.18.4-1ayufan2), libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libgcrypt20 (>= 1.6.1), libpixman-1-0 (>= 0.30.0), libselinux1 (>= 2.0.82), libx11-6 (>= 2:1.6.0), libxau6, libxdmcp6, libxext6, libxfixes3, libxfont1 (>= 1:1.4.2), libxi6, libxmuu1, libxrender1
+Filename: pool/main/x/xorg-server/xdmx_1.18.4-1ayufan2_arm64.deb
+Size: 669212
+MD5sum: e180e9b461fda60270bff83107a0af59
+SHA1: 5e5b6a56424586ef7b6687d9e9ae879024287352
+SHA256: fe3798931ab2c6a9e6b3064a2f4b8dca31c99b9f0f643a8ef27a5390b6f87b32
+Description: distributed multihead X server
+Description-md5: d52dd645b5fa9daf3052065e2345991f
+
+Package: xnest
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 1487
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: arm64
+Version: 2:1.18.4-1ayufan2
+Recommends: libgl1-mesa-dri (>= 7.1~rc1)
+Provides: xserver
+Depends: xserver-common (>= 2:1.18.4-1ayufan2), libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libgcrypt20 (>= 1.6.1), libpixman-1-0 (>= 0.13.2), libselinux1 (>= 2.0.82), libx11-6, libxau6, libxdmcp6, libxext6, libxfont1 (>= 1:1.4.2)
+Filename: pool/main/x/xorg-server/xnest_1.18.4-1ayufan2_arm64.deb
+Size: 556734
+MD5sum: b5b0c44460ba48a4e8da74ada293b448
+SHA1: d36a6d776480ac73cd86c21124c5f0ac880c4c29
+SHA256: 036a72dd7e2b7cd91732aa4f102939456f6876431d35560bc893a78b4ae217f9
+Description: Nested X server
+Description-md5: 48a07c59b44bacd1e2bed508f80542b4
+
+Package: xserver-common
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 2032
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: all
+Version: 2:1.18.4-1ayufan2
+Recommends: xfonts-base, xauth
+Replaces: xserver-xorg-core (<< 2:1.5.2)
+Depends: x11-common, xkb-data, x11-xkb-utils
+Filename: pool/main/x/xorg-server/xserver-common_1.18.4-1ayufan2_all.deb
+Size: 1962158
+MD5sum: 8d0e4749820b82b3993cf6bbadf9fe41
+SHA1: 75675352763be84941fda6b086f937d96519f5a3
+SHA256: d281174dac5f0c55ab35685a1c680da184a7d467d0436c386616d437f0665472
+Description: common files used by various X servers
+Description-md5: be03943b6955ee9fae7163ad516c772f
+Multi-Arch: foreign
+
+Package: xvfb
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 1867
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: arm64
+Version: 2:1.18.4-1ayufan2
+Recommends: xauth
+Provides: xserver
+Depends: xserver-common (>= 2:1.18.4-1ayufan2), libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libgcrypt20 (>= 1.6.1), libgl1-mesa-glx | libgl1, libpixman-1-0 (>= 0.30.0), libselinux1 (>= 2.0.82), libxau6, libxdmcp6, libxfont1 (>= 1:1.4.2)
+Filename: pool/main/x/xorg-server/xvfb_1.18.4-1ayufan2_arm64.deb
+Size: 669542
+MD5sum: d80a045c309d54a6107af53cfd1cd4eb
+SHA1: 1eb0a337fa5e0c4058c43a363aa0bb75973d6077
+SHA256: d7498fecf7c3a3e0a05583d7401b92f25b4b16bc0dc05e5f46d3932057c552dd
+Description: Virtual Framebuffer 'fake' X server
+Description-md5: ff95e4399e5ec034de6998347673eb73
+Multi-Arch: foreign
+
+Package: libdrm-dev
+Source: libdrm
+Priority: optional
+Section: libdevel
+Installed-Size: 876
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libdrm2 (= 2.4.76-2ayufan6), libdrm-rockchip1 (= 2.4.76-2ayufan6)
+Filename: pool/main/libd/libdrm/libdrm-dev_2.4.76-2ayufan6_arm64.deb
+Size: 177376
+MD5sum: 97b6615bf41d028a1d2aabd8fbb78aa2
+SHA1: 8f13eeda0cfec6704b15c9f1c04ecc70911c0e76
+SHA256: 1619ae79546991641c951fab190a4f3c791c31b7d0bb3cb4cdc8aaa8a454a06e
+Description: Userspace interface to kernel DRM services -- development files
+Description-md5: 26367cfc3b23b21ad8b59e1f0974ff45
+Multi-Arch: same
+
+Package: xserver-xephyr
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 2174
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: arm64
+Version: 2:1.18.4-1ayufan2
+Recommends: libgl1-mesa-dri (>= 7.1~rc1)
+Provides: xserver
+Depends: xserver-common (>= 2:1.18.4-1ayufan2), libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libepoxy0 (>= 1.0), libgcrypt20 (>= 1.6.1), libgl1-mesa-glx | libgl1, libpixman-1-0 (>= 0.30.0), libselinux1 (>= 2.0.82), libx11-6, libx11-xcb1, libxau6, libxcb-glx0, libxcb-icccm4 (>= 0.4.1), libxcb-image0 (>= 0.2.1), libxcb-keysyms1 (>= 0.4.0), libxcb-randr0 (>= 1.1), libxcb-render-util0, libxcb-render0, libxcb-shape0, libxcb-shm0, libxcb-util1 (>= 0.4.0), libxcb-xf86dri0, libxcb-xv0 (>= 1.2), libxcb1 (>= 1.6), libxdmcp6, libxfont1 (>= 1:1.4.2), libxshmfence1
+Filename: pool/main/x/xorg-server/xserver-xephyr_1.18.4-1ayufan2_arm64.deb
+Size: 786992
+MD5sum: 6985982f7844b5732c02e633a6ee66f2
+SHA1: 7a4a4c3aa5a009eeb40de0a577a90ed473e99ebc
+SHA256: 584db326ab4a363c4ecc207d9d225273d208a3e73d844bfb93f4241f6e7aede5
+Description: nested X server
+Description-md5: 516dc4b8b7e15f13bc99547d4869e159
+
+Package: xserver-xorg-core
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 3353
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: arm64
+Version: 2:1.18.4-1ayufan2
+Recommends: libgl1-mesa-dri (>= 7.10.2-4)
+Suggests: xfonts-100dpi | xfonts-75dpi, xfonts-scalable
+Provides: xorg-input-abi-22, xorg-video-abi-20
+Depends: xserver-common (>= 2:1.18.4-1ayufan2), keyboard-configuration, udev (>= 149), libepoxy0 (>= 1.3.1-1), libegl1-mesa | libegl1, libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libdrm2 (>= 2.3.1), libgbm1 (>= 8.1~0), libgcrypt20 (>= 1.6.1), libgl1-mesa-glx | libgl1, libpciaccess0 (>= 0.12.902), libpixman-1-0 (>= 0.30.0), libselinux1 (>= 2.0.82), libudev1 (>= 183), libxau6, libxdmcp6, libxfont1 (>= 1:1.4.2), libxshmfence1
+Conflicts: xserver-xorg-input-evtouch
+Breaks: libgl1-mesa-dri (<< 7.10.2-4), libgl1-mesa-dri-experimental (<< 7.10.2-4), xserver-xorg-input, xserver-xorg-input-2, xserver-xorg-input-2.1, xserver-xorg-input-4, xserver-xorg-input-7, xserver-xorg-input-joystick (<= 1:1.5.0-3), xserver-xorg-input-synaptics (<= 1.2.2-1), xserver-xorg-input-tslib (<= 0.0.6-3), xserver-xorg-input-vmmouse (<= 1:12.6.5-4), xserver-xorg-input-wacom (<= 0.10.5+20100415-1), xserver-xorg-video, xserver-xorg-video-1.0, xserver-xorg-video-1.9, xserver-xorg-video-2, xserver-xorg-video-4, xserver-xorg-video-5, xserver-xorg-video-6, xserver-xorg-video-cyrix (<= 1:1.1.0-8), xserver-xorg-video-i810 (<< 2:2.4), xserver-xorg-video-imstt (<= 1:1.1.0-7), xserver-xorg-video-nsc (<= 1:2.8.3-4), xserver-xorg-video-sunbw2 (<= 1:1.1.0-5), xserver-xorg-video-v4l (<< 1:0.2.0), xserver-xorg-video-vga (<= 1:4.1.0-8)
+Filename: pool/main/x/xorg-server/xserver-xorg-core_1.18.4-1ayufan2_arm64.deb
+Size: 1126548
+MD5sum: a2a69929f0348183c375149ff1b824a5
+SHA1: 7055f7b1995d482729cf9b078faaec46757c3b34
+SHA256: 6f773153260c70b62be749c4e9223a94ffd35782625dac974993e044a4a8cc58
+Description: Xorg X server - core server
+Description-md5: e3826a765918b79dee4b90ec97f9302c
+
+Package: libdrm2
+Source: libdrm
+Priority: optional
+Section: libs
+Installed-Size: 99
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Provides: libdrm2-rk
+Depends: libc6 (>= 2.17)
+Filename: pool/main/libd/libdrm/libdrm2_2.4.76-2ayufan6_arm64.deb
+Size: 32364
+MD5sum: 8f30f3fb882dc285db4b50cd1013c462
+SHA1: 97fc3899f35eb8471253e766cc30095cdf97535a
+SHA256: b738d7b01797e2a62450d30b003b7e98cc5b869367ed7a248a3351dfe2e7dc96
+Description: Userspace interface to kernel DRM services -- runtime
+Description-md5: aefc4200d84a6f2aee6f342bdd88dc24
+Multi-Arch: same
+
+Package: xdmx-tools
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 350
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: arm64
+Version: 2:1.18.4-1ayufan2
+Depends: xdmx, libc6 (>= 2.17), libdmx1, libx11-6, libxaw7, libxt6
+Filename: pool/main/x/xorg-server/xdmx-tools_1.18.4-1ayufan2_arm64.deb
+Size: 88670
+MD5sum: e1129ded782c270b14e2cbe83656835a
+SHA1: 9dfe21f22fe259458a1b8f4732cf4b5b83c883ed
+SHA256: 7b56d54bbabaf1a21a96393ba754ef0fa26228e6bf930e3b04cdb3ac5dd76c97
+Description: Distributed Multihead X tools
+Description-md5: d19e4657677c5d6dc4d36c168f58a7f4
+
+Package: xserver-xorg-dev
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 1359
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: arm64
+Version: 2:1.18.4-1ayufan2
+Depends: libpixman-1-dev (>= 0.27.2), x11proto-core-dev (>= 7.0.26), x11proto-input-dev (>= 2.3), x11proto-xext-dev (>= 7.2.99.901), x11proto-video-dev, x11proto-randr-dev (>= 1.4.0), x11proto-render-dev (>= 2:0.11), x11proto-dri2-dev (>= 2.8), x11proto-gl-dev (>= 1.4.17), x11proto-fonts-dev (>= 2.1.3), x11proto-xinerama-dev, x11proto-kb-dev, x11proto-xf86dri-dev, x11proto-resource-dev (>= 1.2.0), x11proto-scrnsaver-dev, x11proto-xf86bigfont-dev (>= 1.2.0), x11proto-dri3-dev, x11proto-present-dev, libxkbfile-dev, libpciaccess-dev, mesa-common-dev
+Filename: pool/main/x/xorg-server/xserver-xorg-dev_1.18.4-1ayufan2_arm64.deb
+Size: 237776
+MD5sum: e145c629b33589e0d1d8584e0744a1b6
+SHA1: 47d547104d061b33f16f70c8b671b87507d5787d
+SHA256: 0749e4c7593cc4e0c5e0199a19232a06bf06061a9a072835e2623ba1d89d410e
+Description: Xorg X server - development files
+Description-md5: 241552d78aca8911808aea0707649843
+
+Package: libdrm2-dbg
+Source: libdrm
+Priority: extra
+Section: debug
+Installed-Size: 117
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libdrm2 (= 2.4.76-2ayufan6)
+Filename: pool/main/libd/libdrm/libdrm2-dbg_2.4.76-2ayufan6_arm64.deb
+Size: 82752
+MD5sum: 9b23924865cdd86a32d26781ddc129bf
+SHA1: 1d00a5de7067848b6da3a604d6724bf969cbafaf
+SHA256: be1be7db52bcfde54d006e5d19ace9e8450a8cb96eaa37b9ad05126ee8ff3432
+Description: Userspace interface to kernel DRM services -- debugging symbols
+Description-md5: 4ca6944e55bdf07eb73a9e7bebdd7276
+Build-Ids: 80d8f7efda2895cb15cffcc843098fb2378bfdd2
+Multi-Arch: same
+
+Package: xserver-xorg-core-dbg
+Source: xorg-server
+Priority: extra
+Section: debug
+Installed-Size: 18865
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: arm64
+Version: 2:1.18.4-1ayufan2
+Depends: xserver-xorg-core (= 2:1.18.4-1ayufan2)
+Filename: pool/main/x/xorg-server/xserver-xorg-core-dbg_1.18.4-1ayufan2_arm64.deb
+Size: 4131694
+MD5sum: 0b71c8619925a235a149aea4f97732a7
+SHA1: 6394157ed73a625de85fc565914e592c6d80bb9d
+SHA256: e2f254a7ce3f7590b59deaf0acdbef693cd394fc8921a8f170ffe8a4c5bec59b
+Description: Xorg - the X.Org X server (debugging symbols)
+Description-md5: 748963cc445faabee033c53886a8a0cf
+
+Package: flash-kernel
+Priority: optional
+Section: utils
+Installed-Size: 161
+Maintainer: David Lechner <david@lechnology.com>
+Architecture: arm64
+Version: 3.75ev3dev5
+Recommends: u-boot-tools
+Depends: debconf (>= 0.5) | debconf-2.0, devio, initramfs-tools (>= 0.92f), linux-base (>= 3.2), mtd-utils, ucf
+Filename: pool/main/f/flash-kernel/flash-kernel_3.75ev3dev5_arm64.deb
+Size: 45852
+MD5sum: 99cd7f90d2e8ddbc59453d1827475ce8
+SHA1: 30d09be3282e4ed05c1be2dae51e47ddf6d1f51d
+SHA256: a2eace75fc7714b50367432403be57cab4678184a6fdd5571b0d4e3e78f07af8
+Description: utility to make certain embedded devices bootable
+Description-md5: 20e5ff2238f4ed9bfdf4651b31ecd6f9
+Original-Maintainer: Debian Install System Team <debian-boot@lists.debian.org>
+
+Package: libdrm-radeon1
+Source: libdrm
+Priority: optional
+Section: libs
+Installed-Size: 79
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74)
+Filename: pool/main/libd/libdrm/libdrm-radeon1_2.4.76-2ayufan6_arm64.deb
+Size: 27322
+MD5sum: 838fa04446dc8c0d8bda99ab596b4bda
+SHA1: b016a41f9c1eaa6c3d0f12fdcbd5c223e6ea9865
+SHA256: e8e0ca298b3d166390a9eca5a14cc27b68f723353c305568883a899d6b561d6c
+Description: Userspace interface to radeon-specific kernel DRM services -- runtime
+Description-md5: 48a20567596b5b215c7a5479d3f5af5b
+Multi-Arch: same
+
+Package: libdrm-radeon1-dbg
+Source: libdrm
+Priority: extra
+Section: debug
+Installed-Size: 84
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libdrm-radeon1 (= 2.4.76-2ayufan6)
+Filename: pool/main/libd/libdrm/libdrm-radeon1-dbg_2.4.76-2ayufan6_arm64.deb
+Size: 52472
+MD5sum: 89edeae3cea895cf956d1f99c484c337
+SHA1: 80e49b5723a0177165db4154289509d9e7ea03b3
+SHA256: 7c6759b18d2f8d3167d3f44810873e1054f5470df798c7d595b3e6b1604d7281
+Description: Userspace interface to radeon-specific kernel DRM services -- debugging symbols
+Description-md5: d8dce081da2ea2da95980f5997a0cbb6
+Build-Ids: 3ba8527eb4897006268c041102375d585798402d
+Multi-Arch: same
+
+Package: libdrm-nouveau2
+Source: libdrm
+Priority: optional
+Section: libs
+Installed-Size: 63
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74)
+Filename: pool/main/libd/libdrm/libdrm-nouveau2_2.4.76-2ayufan6_arm64.deb
+Size: 22738
+MD5sum: dd7135fbefaf7c2267b74aa8b2db33fa
+SHA1: bd4c56b92c919c4403d68c5150900c8e99958808
+SHA256: c0edb323d03b10143a9de4a39691f40c0ecb412ac21ecc5146a4b5c8d9257d57
+Description: Userspace interface to nouveau-specific kernel DRM services -- runtime
+Description-md5: a8a5d523c49607cd4a96eb6032dcb202
+Multi-Arch: same
+
+Package: libdrm-nouveau2-dbg
+Source: libdrm
+Priority: extra
+Section: debug
+Installed-Size: 75
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libdrm-nouveau2 (= 2.4.76-2ayufan6)
+Filename: pool/main/libd/libdrm/libdrm-nouveau2-dbg_2.4.76-2ayufan6_arm64.deb
+Size: 45046
+MD5sum: 0f1d84a4cf6cca0536156f4309188b4e
+SHA1: a032a07442bf1d3b5a4eab1c7af9df2ca981f5c7
+SHA256: 94b960e4c29f783618f7a44765f3576e4b410c87c0c169b33546f32a8180a92a
+Description: Userspace interface to nouveau-specific kernel DRM -- debugging symbols
+Description-md5: 1121a0708f630e678733a766a20d863f
+Build-Ids: c8bf664a5ff3f92cc5f2bb57f28efe2ddf2663d2
+Multi-Arch: same
+
+Package: xorg-server-source
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 6712
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: all
+Version: 2:1.18.4-1ayufan2
+Filename: pool/main/x/xorg-server/xorg-server-source_1.18.4-1ayufan2_all.deb
+Size: 6781822
+MD5sum: 5696282ef077eb79a1b737af8c34d1fe
+SHA1: 892c20459aecdc09b4d9b359189b978dbd4f1950
+SHA256: 58ca19ae9bae7f8b33a10574fd428681552e9698a612658528d827d4a9f1d967
+Description: Xorg X server - source files
+Description-md5: 6be9dae6db2bfd4321ce1a5c689cbeb4
+
+Package: libdrm-freedreno1
+Source: libdrm
+Priority: optional
+Section: libs
+Installed-Size: 67
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74)
+Filename: pool/main/libd/libdrm/libdrm-freedreno1_2.4.76-2ayufan6_arm64.deb
+Size: 23462
+MD5sum: e14e917f97c0c31447a6b8c03bec304e
+SHA1: 3bdeb91f8600592ccd0ebbae49b01c922f7f2883
+SHA256: fd2234242b04c37edac47759499fe634ce84c22b1a259eb656717c30ebe536d3
+Description: Userspace interface to msm/kgsl kernel DRM services -- runtime
+Description-md5: e7aa894a83938fd7b758950fb23bec72
+Multi-Arch: same
+
+Package: libdrm-freedreno1-dbg
+Source: libdrm
+Priority: extra
+Section: debug
+Installed-Size: 97
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libdrm-freedreno1 (= 2.4.76-2ayufan6)
+Filename: pool/main/libd/libdrm/libdrm-freedreno1-dbg_2.4.76-2ayufan6_arm64.deb
+Size: 62620
+MD5sum: 3461af330bb31a441629a852741c87fd
+SHA1: 7aee6bfdf41a8ac8c5f68894baabb4ae240e87b9
+SHA256: 028025a7fc5e3d7dea7042ed68248be2a7a7fea3efb41e9aba8d8b36afa8cb1d
+Description: Userspace interface to msm/kgsl kernel DRM services -- debugging symbols
+Description-md5: 5badf6a9f6b63f45f8cac513f5f697ed
+Build-Ids: 63b896dc4d190d7e5d4e11c0c8b410cb440469cc
+Multi-Arch: same
+
+Package: xwayland
+Source: xorg-server
+Priority: optional
+Section: x11
+Installed-Size: 2033
+Maintainer: Debian X Strike Force <debian-x@lists.debian.org>
+Architecture: arm64
+Version: 2:1.18.4-1ayufan2
+Depends: xserver-common (>= 2:1.18.4-1ayufan2), libaudit1 (>= 1:2.2.1), libc6 (>= 2.17), libdrm2 (>= 2.3.1), libepoxy0 (>= 1.0), libgbm1 (>= 10.2~0), libgcrypt20 (>= 1.6.1), libgl1-mesa-glx | libgl1, libpixman-1-0 (>= 0.30.0), libselinux1 (>= 2.0.82), libwayland-client0 (>= 1.3.92), libxau6, libxdmcp6, libxfont1 (>= 1:1.4.2), libxshmfence1
+Filename: pool/main/x/xorg-server/xwayland_1.18.4-1ayufan2_arm64.deb
+Size: 728510
+MD5sum: 59e8aece17d5c1a5d2ed5def0eeac23f
+SHA1: b685bb4892fe121a0b20dbd10af18569d8954b1b
+SHA256: dc8fd7ab9b40591f85dabba93e8ee3dfadee329a4c360afdc6971a536ffb7270
+Description: Xwayland X server
+Description-md5: 51bce0b4032e401f533c80a4cb12a569
+
+Package: libdrm-tegra0
+Source: libdrm
+Priority: optional
+Section: libs
+Installed-Size: 46
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74)
+Filename: pool/main/libd/libdrm/libdrm-tegra0_2.4.76-2ayufan6_arm64.deb
+Size: 14596
+MD5sum: e4f1ee289198358ee7bf4a604fa3cf9b
+SHA1: 02502988c7d6f540f78bf8638172f3a18b046150
+SHA256: 6a73a9f8eb77443a22ae7728ae685d7413c4a8c10be23b3261370e58d1f5a252
+Description: Userspace interface to tegra-specific kernel DRM services -- runtime
+Description-md5: ff51e7e16d573dc25d73700f5163a4dc
+Multi-Arch: same
+
+Package: libdrm-tegra0-dbg
+Source: libdrm
+Priority: extra
+Section: debug
+Installed-Size: 47
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libdrm-tegra0 (= 2.4.76-2ayufan6)
+Filename: pool/main/libd/libdrm/libdrm-tegra0-dbg_2.4.76-2ayufan6_arm64.deb
+Size: 18054
+MD5sum: aae78861947d344ee5b0152eaa3d0f5b
+SHA1: bd0d3c94ca4ebc7daeda2174f0f6a78d490a76e4
+SHA256: dd4b8881477734bb30a7df624f85fb2ca5b7b22efea9c16ea7296433a9de5dbb
+Description: Userspace interface to tegra-specific kernel DRM services -- debugging symbols
+Description-md5: 6070e3e229200ea13796b78e85a443e4
+Build-Ids: 9bd749a541274de7f94cc8da4b2a733a0d8f0b0a
+Multi-Arch: same
+
+Package: libdrm-amdgpu1-dbg
+Source: libdrm
+Priority: extra
+Section: debug
+Installed-Size: 84
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libdrm-amdgpu1 (= 2.4.76-2ayufan6)
+Filename: pool/main/libd/libdrm/libdrm-amdgpu1-dbg_2.4.76-2ayufan6_arm64.deb
+Size: 52292
+MD5sum: 99c4332a98c0c633dd2a2e92f5bd6b9c
+SHA1: 1e785898af6e3b61c6ad750ef4e326379c5a6bfe
+SHA256: 5b9b1644e8bf20b4fafc73eb6003ffadd3620ac1d521a42d2fdff2907403542d
+Description: Userspace interface to amdgpu-specific kernel DRM services -- debugging symbols
+Description-md5: 6c519b52f4efa3347a180f67f2699c4b
+Build-Ids: bc25771d3071c66757beb20a4daf1188eb4c0d4c
+Multi-Arch: same
+
+Package: libdrm-amdgpu1
+Source: libdrm
+Priority: optional
+Section: libs
+Installed-Size: 71
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74)
+Filename: pool/main/libd/libdrm/libdrm-amdgpu1_2.4.76-2ayufan6_arm64.deb
+Size: 23438
+MD5sum: 046cb6bda302bee39c2602cefdb3ff4b
+SHA1: 7d23d8d27945eee7c3be4b63767b28018a9b8326
+SHA256: 0c3e3941509ddfdd71b9a10ae729462d142da05e8a89689ca754617f6b23f9a0
+Description: Userspace interface to amdgpu-specific kernel DRM services -- runtime
+Description-md5: 61a9b44d2a8366ec01d27d9e105f5ecb
+Multi-Arch: same
+
+Package: libdrm-rockchip1-dbg
+Source: libdrm
+Priority: extra
+Section: debug
+Installed-Size: 31
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libdrm-exynos1 (= 2.4.76-2ayufan6)
+Filename: pool/main/libd/libdrm/libdrm-rockchip1-dbg_2.4.76-2ayufan6_arm64.deb
+Size: 11718
+MD5sum: 70c8f4366b96836ec1ea15d72928c6b7
+SHA1: 268b68402cbc1847a34c403fb029649b455a11d0
+SHA256: d03600a30c71d3f5972273165b65f5991ae37bf05b8c9731edc6422ecea019ad
+Description: Userspace interface to exynos-specific kernel DRM services -- debugging symbols
+Description-md5: 4de1b8b124a9060bea5920db98351dbf
+Multi-Arch: same
+
+Package: libdrm-rockchip1
+Source: libdrm
+Priority: optional
+Section: libs
+Installed-Size: 68
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 2.4.76-2ayufan6
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74), libdrm2-rk, libmali-rk
+Filename: pool/main/libd/libdrm/libdrm-rockchip1_2.4.76-2ayufan6_arm64.deb
+Size: 21802
+MD5sum: a63c37a670bc09e0c78b95a327f5d7e9
+SHA1: 71bb2b810ef42b529ee947ec0f9126a77450620b
+SHA256: a9fbe808d3243c8fad43ca24555f23c02f87e8438a990f74fd01fe00566ad695
+Description: Userspace interface to msm/kgsl kernel DRM services -- runtime
+Description-md5: e7aa894a83938fd7b758950fb23bec72
+Multi-Arch: same
+
+Package: libmali-rk-dev
+Source: libmali-rk
+Priority: optional
+Section: libdevel
+Installed-Size: 801
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 1.5-4ayufan12
+Replaces: libegl1-mesa-dev, libgbm-dev, libgles2-mesa-dev, opencl-c-headers
+Provides: libegl1-mesa-dev, libgbm-dev, libgles2-mesa-dev, opencl-c-headers
+Filename: pool/main/libm/libmali-rk/libmali-rk-dev_1.5-4ayufan12_arm64.deb
+Size: 76146
+MD5sum: 15d5ad1cd858c28f4694dae2fd586a99
+SHA1: ccb358ba175cfbc9cd69c15104cabf4363265d2f
+SHA256: a1d1e9ae90e82b6c2b33083a6d9019ac4fd81dea63377533f1d5ac8887ac2edc
+Description: The mali library for Rockchip RK3288.
+Description-md5: ca071c88673a9fe8403d6e86c842a9d9
+Multi-Arch: same
+
+Package: libmali-rk-midgard-4th-r9p0
+Source: libmali-rk
+Priority: optional
+Section: libs
+Installed-Size: 3666
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 1.5-4ayufan12
+Replaces: libegl1-mesa, libegl1-x11, libgbm1, libgles2-mesa
+Provides: libegl1, libegl1-mesa, libgbm1, libgles2-mesa, libmali-rk, libwayland-egl1-mesa
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74), libx11-6, libx11-xcb1, libxcb-dri2-0 (>= 1.8), libxcb1
+Conflicts: libmali-rk-midgard-4th-r13p0, libmali-rk-midgard-r12p0-r0p0, libmali-rk-midgard-r13p0-r0p0, libmali-rk-midgard-r9p0-r0p0, libmali-rk-midgard-r9p0-r1p0, libmali-rk-utgard0-r6p0
+Filename: pool/main/libm/libmali-rk/libmali-rk-midgard-4th-r9p0_1.5-4ayufan12_arm64.deb
+Size: 1047086
+MD5sum: 8642c5da92ace8845719b1ceb115b500
+SHA1: dd07523cbf8cce84ba45b2da002dbc4f897d900e
+SHA256: e61ea73af71a94c1598dba2c96fbba3988c7b4f1811bd1d258635d866a688654
+Description: The mali library for Rockchip RK3399.
+Description-md5: 00df9e773a89a37239c0c80a10f1e1cf
+Multi-Arch: same
+
+Package: librockchip-mpp-dev
+Source: mpp
+Priority: optional
+Section: libdevel
+Installed-Size: 135
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 1.3.1-1ayufan5
+Depends: librockchip-mpp1 (= 1.3.1-1ayufan5)
+Filename: pool/main/m/mpp/librockchip-mpp-dev_1.3.1-1ayufan5_arm64.deb
+Size: 27464
+MD5sum: 3bf303bcd0397456eb9115615fac5acf
+SHA1: ac515c8d2b08d56de7044bd29ff873364387426b
+SHA256: fcddc4ee7c857f5000a6b5f27f5ef437adb0227a5d9fef9b8be020c1615532b4
+Description: Media Process Platform
+Description-md5: 4abfb58787b683c6dfb0b210d4d6b68e
+
+Package: librockchip-mpp-static
+Source: mpp
+Priority: optional
+Section: libs
+Installed-Size: 158
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 1.3.1-1ayufan5
+Filename: pool/main/m/mpp/librockchip-mpp-static_1.3.1-1ayufan5_arm64.deb
+Size: 30066
+MD5sum: bfc9c222c76c6a161027a2584d797d38
+SHA1: 8ab5fd11797c36c17fcd838219ec2257a0aa27ca
+SHA256: 3a468818b007a6e4b46ccf0a560861340b1cd3007afc3c04b83b05f9172abaed
+Description: Media Process Platform
+Description-md5: 4abfb58787b683c6dfb0b210d4d6b68e
+
+Package: librockchip-mpp1
+Source: mpp
+Priority: optional
+Section: libs
+Installed-Size: 647
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 1.3.1-1ayufan5
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), libstdc++6 (>= 4.1.1)
+Filename: pool/main/m/mpp/librockchip-mpp1_1.3.1-1ayufan5_arm64.deb
+Size: 228110
+MD5sum: 52eeb660272e74fd70c4bb4b295b7906
+SHA1: b26438966bcb8ada15017a23c2d3fe3fac5cf813
+SHA256: 44f91d783f60f69f94e6595cc2a898aa888ece98cb62f5037d489fade404f061
+Description: Media Process Platform
+Description-md5: 4abfb58787b683c6dfb0b210d4d6b68e
+
+Package: librockchip-vpu0
+Source: mpp
+Priority: optional
+Section: libs
+Installed-Size: 63
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 1.3.1-1ayufan5
+Depends: libc6 (>= 2.17), libgcc1 (>= 1:3.0), librockchip-mpp1, libstdc++6 (>= 4.1.1)
+Filename: pool/main/m/mpp/librockchip-vpu0_1.3.1-1ayufan5_arm64.deb
+Size: 18340
+MD5sum: e3647653ad056a56c45be8b2ac97c15a
+SHA1: e8cf34e14e9cf59904d5feaccd61d354b61ec4b7
+SHA256: c70cddfcbb28909c16df1942991b8b08eac927f5d73789f1e12df8399d063dc7
+Description: Media Process Platform
+Description-md5: 4abfb58787b683c6dfb0b210d4d6b68e
+
+Package: gstreamer1.0-rockchip1
+Source: gstreamer1.0-rockchip
+Priority: optional
+Section: libs
+Installed-Size: 164
+Maintainer: Randy Li <randy.li@rock-chips.com>
+Architecture: arm64
+Version: 1.10-5-1ubuntu1
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74), libglib2.0-0 (>= 2.37.3), libgstreamer-plugins-base1.0-0 (>= 1.6.0), libgstreamer1.0-0 (>= 1.8.0), librockchip-mpp1, libx11-6
+Filename: pool/main/g/gstreamer1.0-rockchip/gstreamer1.0-rockchip1_1.10-5-1ubuntu1_arm64.deb
+Size: 41272
+MD5sum: 7962193d835d13efc39ab29b76e31b17
+SHA1: ef167dbfd7324b874f65ae7198273415c92946af
+SHA256: 8d3fbedc930e63a1feab7c43af6699e1f0291ce406bc245d10d851f85116eabd
+Description: The Gstreamer plugins for Rockchip RK3xxx platform.
+Description-md5: 08874bc9094431d3cec96f459f619087
+
+Package: libmali-rk-midgard-4th-r13p0
+Source: libmali-rk
+Priority: optional
+Section: libs
+Installed-Size: 24662
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 1.5-4ayufan12
+Replaces: libegl1-mesa, libegl1-x11, libgbm1, libgles2-mesa
+Provides: libegl1, libegl1-mesa, libgbm1, libgles2-mesa, libmali-rk, libwayland-egl1-mesa
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74), libgcc1 (>= 1:3.4), libstdc++6 (>= 4.6), libx11-6, libx11-xcb1, libxcb-dri2-0 (>= 1.8), libxcb1
+Conflicts: libmali-rk-midgard-r12p0-r0p0, libmali-rk-midgard-r13p0-r0p0, libmali-rk-midgard-r9p0-r0p0, libmali-rk-midgard-r9p0-r1p0, libmali-rk-utgard0-r6p0
+Filename: pool/main/libm/libmali-rk/libmali-rk-midgard-4th-r13p0_1.5-4ayufan12_arm64.deb
+Size: 6707212
+MD5sum: 7e5f3c232f076bda72fa43cdf29b8729
+SHA1: be447017fc411c1827e97365b9db194185c939e8
+SHA256: 9f0c50073748a2114b52d6b785826e2aa8f6b992b4f0bf8aecaeaac90881fac1
+Description: The mali library for Rockchip RK3399 (32bit).
+Description-md5: 4e6521d6c78b541bc5a767cf7fa55ef3
+Multi-Arch: same
+
+Package: libmali-rk-utgard-2th-r7p0
+Source: libmali-rk
+Priority: optional
+Section: libs
+Installed-Size: 1570
+Maintainer: Kamil Trzcinski <ayufan@ayufan.eu>
+Architecture: arm64
+Version: 1.5-4ayufan12
+Replaces: libegl1-mesa, libegl1-x11, libgbm1, libgles2-mesa
+Provides: libegl1, libegl1-mesa, libgbm1, libgles2-mesa, libmali-rk, libwayland-egl1-mesa
+Depends: libc6 (>= 2.17), libdrm2 (>= 2.4.74), libx11-6 (>= 2:1.4.99.1), libxdamage1 (>= 1:1.1), libxext6, libxfixes3
+Conflicts: libmali-rk-midgard-r12p0-r0p0, libmali-rk-midgard-r13p0-r0p0, libmali-rk-midgard-r9p0-r0p0, libmali-rk-midgard-r9p0-r1p0, libmali-rk-utgard0-r6p0
+Filename: pool/main/libm/libmali-rk/libmali-rk-utgard-2th-r7p0_1.5-4ayufan12_arm64.deb
+Size: 535642
+MD5sum: 9820d83662a60604aa9b05449cd1816f
+SHA1: 98fbfe96cf64edd8097650b5183ff4dda8eb9664
+SHA256: 01664713a78485f85598b0dab5dc89c1c8dfd1f37974b34cd1f19a034d195161
+Description: The mali library for Rockchip RK3328 (32bit).
+Description-md5: f4b54f71869ac2afdee05798fd20f57d
+Multi-Arch: same
+

@@ -1,0 +1,8 @@
+d828319d668dc6226e6ba32b2fb1cd8c  usr/bin/locate.findutils
+a762d2e7c561352e10065c2493632379  usr/bin/updatedb.findutils
+8fbacaaad71ff10050f65b0fe827cdfb  usr/lib/aarch64-linux-gnu/locate/frcode
+97e26629f4a59481b7531a8c73b27808  usr/share/doc/locate/README.Debian
+74fef018c2568625e5455b46621b4b53  usr/share/doc/locate/copyright
+f434b43392cd34c7f8b8f5cb5d9210b7  usr/share/man/man1/locate.findutils.1.gz
+9fb2cfd6adac1a3982b17829df871af9  usr/share/man/man1/updatedb.findutils.1.gz
+fa3ea41b5c0d2961e62a5e33f91f7efa  usr/share/man/man5/locatedb.5.gz

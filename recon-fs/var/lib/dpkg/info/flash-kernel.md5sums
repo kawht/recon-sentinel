@@ -1,0 +1,13 @@
+2470bc6b2f763daa72e5714c8ee90f37  usr/sbin/flash-kernel
+1fc040655710e48d64406b9091d68213  usr/share/doc/flash-kernel/NEWS.Debian.gz
+ec15b2cfd3e167bb037fd88b8bbac790  usr/share/doc/flash-kernel/README.gz
+5d67c1adbf3c0532406eff3eb3d5b2e3  usr/share/doc/flash-kernel/changelog.gz
+2e559d628263bdedee6d674e480944c1  usr/share/doc/flash-kernel/copyright
+e590b93a08604742c8072797417345d5  usr/share/flash-kernel/db/all.db
+d0dfe8b3acaf2562f01b150cd6a70f2d  usr/share/flash-kernel/default/flash-kernel
+569b76ca7952eb5356bc86a73efc2a85  usr/share/flash-kernel/default/flash-kernel.in
+3cc52deb629cec43ea78134d7cd8ec23  usr/share/flash-kernel/dtb-probe/kirkwood-linkstation
+284a986cf7b6017043865c5622ce133c  usr/share/flash-kernel/dtb-probe/kirkwood-qnap
+84c7a4b9120d011e51ca6280326e5d98  usr/share/flash-kernel/functions
+624cb132da5b9b79d95a7c98d5c2ae1d  usr/share/initramfs-tools/hooks/flash_kernel_set_root
+f6c02d3382258445bc5951a222191c96  usr/share/man/man8/flash-kernel.8.gz

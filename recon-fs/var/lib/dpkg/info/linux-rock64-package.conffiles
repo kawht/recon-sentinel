@@ -1,0 +1,27 @@
+/boot/efi/extlinux/extlinux.conf
+/etc/X11/xorg.conf.d/20-modesetting.conf
+/etc/chromium-browser/customizations/rock64-optimisations
+/etc/cron.d/make_nas_processes_faster
+/etc/cron.d/startup
+/etc/firmware/4343A0.hcd
+/etc/firmware/BCM4335C0.hcd
+/etc/firmware/BCM4343A0 26M.hcd
+/etc/lightdm/lightdm-gtk-greeter.conf.d/99_xxx_rock64.conf
+/etc/modprobe.d/.gitkeep
+/etc/modules-load.d/.gitkeep
+/etc/network/if-up.d/rock64-offload
+/etc/network/interfaces.d/eth0
+/etc/systemd/system/first-boot.service
+/etc/systemd/system/restart-network-manager-after-resume.service
+/etc/systemd/system/restore-sound-after-resume.service
+/etc/systemd/system/rtk-hciattach.service
+/etc/systemd/system/ssh-keygen.service
+/etc/systemd/system/store-sound-on-suspend.service
+/etc/udev/rules.d/50-hevc-rk3399.rules
+/etc/udev/rules.d/50-hevc.rules
+/etc/udev/rules.d/50-mail.rules
+/etc/udev/rules.d/50-mail400.rules
+/etc/udev/rules.d/50-vpu-rk3399.rules
+/etc/udev/rules.d/50-vpu.rules
+/etc/udev/rules.d/hdmi.rules
+/etc/update-motd.d/05-figlet

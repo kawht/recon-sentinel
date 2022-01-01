@@ -1,0 +1,37 @@
+.\" -*- nroff -*-
+.\"
+.\" ipcalc_cgi.1
+.\"
+.\" This program was written by
+.\" Krischan Jodies <krischan@jodies.de>
+.\"
+.\" This manpage was created by:
+.\" Nick Clifford <zaf@nrc.co.nz>
+.\" 
+.\" The author of the program retains copyrights to the program, however
+.\" his manpage is Copyright (c) 2003   Nick Clifford 
+.\"
+.\" This program and this manpage is distributed under the terms of the 
+.\" GNU General Public License. See COPYING for additional information.
+.\"
+.TH ipcalc_cgi 1 .\" "ipcalc_cgi Manual" "Jan 25, 2003"
+.SH NAME
+ipcalc_cgi - An IPv4 Netmask/broadcast/etc cgi calculator
+.SH SYNTAX 
+\fBipcalc\fR should be called as a CGI application from
+a web server.
+.SH DESCRIPTION
+\fBipcalc_cgi\fR is the web based version
+of \fBipcalc\fR. It takes an IPv4 address and netmask and calculates 
+the resulting broadcast,
+network, Cisco wildcard mask, and host range. By giving a second netmask, you
+can design sub- and supernetworks. It is also intended to be a teaching tool
+and presents the results as easy-to-understand binary values.
+.SH AUTHOR
+     Written by Krischan Jodies <krischan@jodies.de>
+.SH "SEE ALSO"
+.BR ipsc (1)
+.BR gipsc (1)
+.PP
+The ipcalc website: http://jodies.de/ipcalc
+
