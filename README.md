@@ -1,19 +1,20 @@
 # recon-sentinel
-Firmware dump for the obscure device called "Recon Sentinel".
-I copied all data from the supplied SD card from the RS using win32 Disk Imager.
-It was seperated into 7 partitions of data.
-I wasn't able to get much out of digging into the firmware, as I don't have much experience with embedded firmware development.
-I'm hoping someone will find this useful.
+Firmware dump for an obscure network device called the "Recon Sentinel".
+I copied all data from the supplied SD card from the RS using Kali Linux.
+It was seperated into boot, and the linux filesystem.
+I was able to get most of the filesystem, except symlinks.
+I'm hoping someone will find this useful. It is very interesting stuff.
+Most firmware for the actual device (python scripts) are located in /usr/local/bin
 
 Here are some links to information about this interesting device:
 
-Official Website
+Official website
 https://www.reconsentinel.com/
 
-Hackaday Article
+Hackaday article
 https://hackaday.com/2020/11/16/teardown-recon-sentinel/
 
-Amazon Listing (NOT affiliated link)
+An Amazon listing of the device
 https://www.amazon.com/Recon-Sentine-Inconspicuous-Cybersecurity-Designed/dp/B078K27C7N
 
 Where I purchased my device
